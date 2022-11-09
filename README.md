@@ -1,4 +1,8 @@
 # _Apis
+```
+https://bogotas.github.io/_Apis/index.json
+```
+
 
 ## Projects
 ```
