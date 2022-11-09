@@ -24,7 +24,7 @@
     "id": "4",
     "title": "clone-of-netflix",
     "src": "https://github.com/Atugatran/clone-of-netflix",
-    "demo": "https://atugatran.github.io/clone-of-netflix//",
+    "demo": "https://atugatran.github.io/clone-of-netflix/",
     "img": "https://64.media.tumblr.com/37267dc5752e3e59512febca01fb569a/eef63acc2671817f-cf/s640x960/8f35417c974e8e8a216f905c6e53ff974145243b.pnj"
   },
   {
@@ -120,6 +120,13 @@
   },
   {
     "id": "18",
+    "title": "Portfoli4",
+    "src": "https://github.com/Atugatran/React-portfolio4",
+    "demo": "https://atugatran.github.io/React-portfolio4/",
+    "img": "https://64.media.tumblr.com/c5347e742bd6dbe5670030459549ec01/74d4d3165ece3ebb-18/s640x960/ffa7db5d9ed332764293afe45011ac00642b30be.pnj"
+  },
+  {
+    "id": "19",
     "title": "Resume",
     "src": "https://github.com/Atugatran/Resume",
     "demo": "https://atugatran.github.io/Resume/",
