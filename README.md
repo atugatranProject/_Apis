@@ -16,5 +16,5 @@ https://bogotas.github.io/_Apis/Js_Libaries/index.json
 
 ## Movies
 ```
-https://bogotas.github.io/_Apis/Movies/
+https://bogotas.github.io/_Apis/Movies/index.json
 ```

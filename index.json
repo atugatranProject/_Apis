@@ -8,5 +8,10 @@
     "id": 2,
     "name": "Js_Libaries",
     "src": "https://bogotas.github.io/_Apis/Js_Libaries/index.json"
+  },
+  {
+    "id": 3,
+    "name": "Movies",
+    "src": "https://bogotas.github.io/_Apis/Movies/index.json"
   }
 ]
