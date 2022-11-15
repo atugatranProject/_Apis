@@ -4,35 +4,40 @@
     "title": "iMusic",
     "src": "https://github.com/atugatran-projects-projects/iMusic/",
     "demo": "https://atugatran-projects.github.io/iMusic/",
-    "img": "https://64.media.tumblr.com/7b8bc8a3b36b5a6051df2fd9de3bc459/f24e7fe0938342a0-fa/s640x960/ed919830e18dcb03de4dce3db2e55118b29b4e9f.pnj"
+    "img": "https://64.media.tumblr.com/7b8bc8a3b36b5a6051df2fd9de3bc459/f24e7fe0938342a0-fa/s640x960/ed919830e18dcb03de4dce3db2e55118b29b4e9f.pnj",
+    "Portfolio": true
   },
   {
     "id": "2",
     "title": "iMovies",
     "src": "https://github.com/atugatran-projects/iMovies",
     "demo": "https://atugatran-projects.github.io/iMovies/",
-    "img": "https://64.media.tumblr.com/3c61f0ada081efaa1a42d3266c17b46b/2a9044dc02647e0d-d1/s640x960/aeeefbc991a8fa1c9e1111ea5f2ee6222cfffb12.pnj"
+    "img": "https://64.media.tumblr.com/3c61f0ada081efaa1a42d3266c17b46b/2a9044dc02647e0d-d1/s640x960/aeeefbc991a8fa1c9e1111ea5f2ee6222cfffb12.pnj",
+    "Portfolio": true
   },
   {
     "id": "3",
     "title": "iMoviearea",
     "src": "https://github.com/atugatran-projects/iMoviearea",
     "demo": "https://atugatran-projects.github.io/iMoviearea/",
-    "img": "https://64.media.tumblr.com/24e8dd39e3531ec32a698a388e7e525e/5403e37e980fa273-f6/s640x960/62e8a4b0f590e3a685efe70b82ed56c677f0aa0c.pnj"
+    "img": "https://64.media.tumblr.com/24e8dd39e3531ec32a698a388e7e525e/5403e37e980fa273-f6/s640x960/62e8a4b0f590e3a685efe70b82ed56c677f0aa0c.pnj",
+    "Portfolio": true
   },
   {
     "id": "4",
     "title": "YouTube-clone",
     "demo": "https://atugatran-projects.github.io/YouTube-clone/",
     "src": "https://github.com/atugatran-projects/YouTube-clone",
-    "img": "https://64.media.tumblr.com/5653e682fdf72fff69461d2a1620264a/ae9271628fc3f833-d2/s640x960/eccb67bbc3122eabaea54adaff34d93e2719679d.pnj"
+    "img": "https://64.media.tumblr.com/5653e682fdf72fff69461d2a1620264a/ae9271628fc3f833-d2/s640x960/eccb67bbc3122eabaea54adaff34d93e2719679d.pnj",
+    "Portfolio": true
   },
   {
     "id": "5",
     "title": "clone-of-netflix",
     "src": "https://github.com/atugatran-projects/clone-of-netflix",
     "demo": "https://atugatran-projects.github.io/clone-of-netflix/",
-    "img": "https://64.media.tumblr.com/37267dc5752e3e59512febca01fb569a/eef63acc2671817f-cf/s640x960/8f35417c974e8e8a216f905c6e53ff974145243b.pnj"
+    "img": "https://64.media.tumblr.com/37267dc5752e3e59512febca01fb569a/eef63acc2671817f-cf/s640x960/8f35417c974e8e8a216f905c6e53ff974145243b.pnj",
+    "Portfolio": true
   },
   {
     "id": "6",
