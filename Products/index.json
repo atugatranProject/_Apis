@@ -1,6 +1,6 @@
 [
   {
-    "id": "atugatran_noa",
+    "id": "atugatrannoa",
     "name": "iphone x",
     "company": "apple",
     "price": 6000000,
@@ -11,7 +11,7 @@
     "featured": true
   },
   {
-    "id": "atugatran_nob",
+    "id": "atugatrannob",
     "name": "samsung s20",
     "company": "samsung",
     "price": 5000000,
@@ -22,7 +22,7 @@
     "shipping": true
   },
   {
-    "id": "atugatran_noc",
+    "id": "atugatrannoc",
     "name": "Dell Series",
     "company": "dell",
     "price": 600000,
@@ -32,7 +32,7 @@
     "category": "laptop"
   },
   {
-    "id": "atugatran_nod",
+    "id": "atugatrannod",
     "name": "Nokia 420",
     "company": "nokia",
     "price": 12599,
@@ -43,7 +43,7 @@
     "shipping": true
   },
   {
-    "id": "atugatran_noe",
+    "id": "atugatrannoe",
     "name": "Mac Pc",
     "company": "apple",
     "price": 4000099,
@@ -54,7 +54,7 @@
     "shipping": true
   },
   {
-    "id": "atugatran_nof",
+    "id": "atugatrannof",
     "name": "Macbook Pro",
     "company": "apple",
     "price": 42999,
@@ -65,7 +65,7 @@
     "shipping": true
   },
   {
-    "id": "atugatran_nog",
+    "id": "atugatrannog",
     "name": "Asus gseries",
     "company": "asus",
     "price": 23999,
@@ -76,7 +76,7 @@
     "shipping": true
   },
   {
-    "id": "atugatran_noh",
+    "id": "atugatrannoh",
     "name": "Accessories",
     "price": 1099999,
     "company": "lenova",
@@ -88,7 +88,7 @@
     "shipping": true
   },
   {
-    "id": "atugatran_noi",
+    "id": "atugatrannoi",
     "name": "Iwatch",
     "price": 39999,
     "company": "apple",
@@ -99,7 +99,7 @@
     "shipping": true
   },
   {
-    "id": "atugatran_noj",
+    "id": "atugatrannoj",
     "name": "user need",
     "company": "apple",
     "price": 300099,
@@ -109,7 +109,7 @@
     "category": "accessories"
   },
   {
-    "id": "atugatran_nok",
+    "id": "atugatrannok",
     "name": "rolex premium",
     "company": "rolex",
     "price": 999999,
@@ -119,7 +119,7 @@
     "category": "watch"
   },
   {
-    "id": "atugatran_nol",
+    "id": "atugatrannol",
     "name": "galaxy w20",
     "price": 311999,
     "company": "samsung",
