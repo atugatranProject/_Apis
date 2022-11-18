@@ -6,16 +6,21 @@
   },
   {
     "id": 2,
+    "name": "Mini-Projects",
+    "src": "https://atugatran-projects.github.io/_Apis/Mini-Projects/index.json"
+  },
+  {
+    "id": 3,
     "name": "Js_Libaries",
     "src": "https://atugatran-projects.github.io/_Apis/Js_Libaries/index.json"
   },
   {
-    "id": 3,
+    "id": 4,
     "name": "Movies",
     "src": "https://atugatran-projects.github.io/_Apis/Movies/index.json"
   },
   {
-    "id": 4,
+    "id": 5,
     "name": "products",
     "src": "https://atugatran-projects.github.io/_Apis/Products/index.json"
   }
