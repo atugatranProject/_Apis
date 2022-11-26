@@ -33,9 +33,9 @@
   },
   {
     "id": "5",
-    "title": "clone-of-netflix",
+    "title": "Netflix-Clone ",
     "src": "https://github.com/atugatran-projects/Netflix-Clone",
-    "demo": "https://atugatran-projects.github.io/Netflix-Clone/",
+    "demo": "https://atugatran-netflix.netlify.app/",
     "img": "https://64.media.tumblr.com/37267dc5752e3e59512febca01fb569a/eef63acc2671817f-cf/s640x960/8f35417c974e8e8a216f905c6e53ff974145243b.pnj",
     "Portfolio": true
   },
@@ -47,120 +47,44 @@
     "img": "https://64.media.tumblr.com/9c6f3a28c6e600c27e1a51855d81846a/7628fe62529bc71d-61/s1280x1920/0dfbfe38e57d35b000e1636f30833788d0631790.pnj",
     "Portfolio": true
   },
+
   {
     "id": "7",
-    "title": "Clock",
-    "demo": "https://atugatran-projects.github.io/Clock/",
-    "src": "https://github.com/atugatran-projects/Clock",
-    "img": "https://64.media.tumblr.com/933591ce4e5061a6b5cf7f07a4dcc363/2bc9d02c242b900a-05/s1280x1920/d1d110c03173548638dcd6c8e831b7657ea17123.pnj"
-  },
-  {
-    "id": "8",
-    "title": "Calculator",
-    "src": "https://github.com/atugatran-projects/Calculator",
-    "demo": "https://atugatran-projects.github.io/Calculator/",
-    "img": "https://64.media.tumblr.com/6d797611dfb7c9295ca85fb5842e8020/d6e180c63c6f68f7-b7/s1280x1920/bd5833c32330399ead38f6aaf347c7f8d240115a.pnj"
-  },
-  {
-    "id": "9",
-    "title": "ClipPath-Text",
-    "src": "https://github.com/atugatran-projects/ClipPath-Text",
-    "demo": "https://atugatran-projects.github.io/ClipPath-Text/",
-    "img": "https://64.media.tumblr.com/31801aad40a6b1819b210ae429f695f1/b19ab5e1ab9fcfd8-e1/s1280x1920/f846105fc14d2b868b1af62c70c9f40d43015b03.pnj"
-  },
-  {
-    "id": "10",
-    "title": "Car-Animation",
-    "src": "https://github.com/atugatran-projects/Car-Animation",
-    "demo": "https://atugatran-projects.github.io/Car-Animation/",
-    "img": "https://64.media.tumblr.com/c023fc66995c2e46413c5e60a25460d1/4ab572842d792842-70/s1280x1920/5d61011990a89fd505f1d77c55dc6d9d36532b7b.pnj"
-  },
-  {
-    "id": "11",
-    "title": "SnakeMania",
-    "src": "https://github.com/atugatran-projects/SnakeMania",
-    "demo": "https://atugatran-projects.github.io/SnakeMania/",
-    "img": "https://64.media.tumblr.com/4850ada427ecc0b23d20ff1ba8203b44/4c5d62033a5b21af-19/s640x960/c3c85f943926348cd1279a84e68871a54017577a.pnj"
-  },
-  {
-    "id": "12",
-    "title": "iDragon",
-    "src": "https://github.com/atugatran-projects/iDragon",
-    "demo": "https://atugatran-projects.github.io/iDragon/",
-    "img": "https://64.media.tumblr.com/e8e0e967247474c505a4cf1edf6cd5a8/ec5bc70fc93712d8-53/s640x960/b439419f43768c715cb5c724f1fd33ccdfed023a.pnj"
-  },
-  {
-    "id": "13",
-    "title": "Tic-Tac-Toe",
-    "src": "https://github.com/atugatran-projects/Tic-Tac-Toe",
-    "demo": "https://atugatran-projects.github.io/Tic-Tac-Toe/",
-    "img": "https://64.media.tumblr.com/71f7714a513f5d353c7b889b375def7c/d39952dcde8053e7-bb/s2048x3072/7bf25ae0a5e785f6dafc80ffb2ffc19c6f4ea1a8.pnj"
-  },
-  {
-    "id": "14",
-    "title": "My-Notes",
-    "src": "https://github.com/atugatran-projects/My-Notes",
-    "demo": "https://atugatran-projects.github.io/My-Notes/",
-    "img": "https://64.media.tumblr.com/8b8b27961457570d992f18915a2e7ae3/625917d545b73a85-75/s1280x1920/07860f5b11ac991cdf9079c3276ac43a34e84a87.pnj"
-  },
-  {
-    "id": "15",
-    "title": "Wheather-app",
-    "src": "https://github.com/atugatran-projects/Wheather-app",
-    "demo": "https://atugatran-wheatherapp.netlify.app/",
-    "img": "https://64.media.tumblr.com/bd8497030965728f717f191885dd3941/8abd7ef29b452d9f-1c/s640x960/71a45fbcdb8c4ff25dcdb246a37ad8db493f47c0.pnj"
-  },
-  {
-    "id": "16",
-    "title": "My-Todos",
-    "src": "https://github.com/atugatran-projects/My-Todos",
-    "demo": "https://atugatran-projects.github.io/My-Todos/",
-    "img": "https://64.media.tumblr.com/a30bdd1a19deed19cb2454432770d0b6/6049ac4d3220356c-4d/s640x960/e137afdb6dd00b97cbfa48835a77cdc7c9fede56.pnj"
-  },
-  {
-    "id": "17",
-    "title": "Guess-the-number",
-    "src": "https://github.com/atugatran-projects/Guess-the-number",
-    "demo": "https://atugatran-projects.github.io/Guess-the-number/",
-    "img": "https://64.media.tumblr.com/c43e6a190f284edc0be0995a924533f3/0c55e49195ee098e-84/s640x960/c7b6599727b51e8e52f4cec3b20725dfb0dcef90.pnj"
-  },
-  {
-    "id": "18",
     "title": "iBlog",
     "src": "https://github.com/atugatran-projects/iBlog",
     "demo": "https://atugatran-projects.github.io/iBlog/",
     "img": "https://64.media.tumblr.com/8c3d4b39eda4d06afe01c27d315ae52b/a6eb5d355b35d0bf-7a/s640x960/5e7fefc86313c623ecf13733e872525e5cade447.pnj"
   },
   {
-    "id": "19",
+    "id": "8",
     "title": "iCoder",
     "src": "https://github.com/atugatran-projects/iCoder",
     "demo": "https://atugatran-projects.github.io/iCoder/",
     "img": "https://64.media.tumblr.com/917c23d8dac05c63c0705f0f54a573a5/d47860b1b552c1b2-13/s640x960/1e5974ef1cf812e8240f3f874763f9e92fbcdec2.pnj"
   },
   {
-    "id": "20",
+    "id": "9",
     "title": "Portfolio",
     "src": "https://github.com/atugatran-projects/Portfolio",
     "demo": "https://atugatran-projects.github.io/Portfolio/",
     "img": "https://64.media.tumblr.com/681eca27fcc368085846c8b8d1c95bcb/470a2903e0fac54f-e9/s640x960/690d68c047cc35a4be77040b53031b8f796ac1c7.pnj"
   },
   {
-    "id": "21",
+    "id": "10",
     "title": "Portfoli2",
     "src": "https://github.com/atugatran-projects/Portfolio2",
     "demo": "https://atugatran-projects.github.io/Portfolio2/",
     "img": "https://64.media.tumblr.com/1bf5391e33ed3e71cf83bf23dfba4287/24d2f4ae3593f069-1f/s640x960/5b75161efa343988d4fcfaf3cbb9ee93fe907150.pnj"
   },
   {
-    "id": "22",
+    "id": "11",
     "title": "Portfoli3",
     "src": "https://github.com/atugatran-projects/Portfolio3",
     "demo": "https://atugatran-projects.github.io/Portfolio3/",
     "img": "https://64.media.tumblr.com/ea4dcabfb715c981c6449f0c9d7f4525/c72f96fa19ca0c12-58/s640x960/e940d618fcd478793b69e667ca2255bee6f21aee.pnj"
   },
   {
-    "id": "23",
+    "id": "12",
     "title": "Portfoli4",
     "src": "https://github.com/atugatran-projects/React-portfolio4",
     "demo": "https://atugatran-projects.github.io/React-portfolio4/",

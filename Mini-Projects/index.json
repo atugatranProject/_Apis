@@ -1,38 +1,114 @@
 [
-    {
-      "id": "1",
-      "title": "Project Management Dashboard UI",
-      "src": "https://replit.com/@Atugatran/Project-Management-Dashboard-UI#index.html",
-      "demo": "https://project-management-dashboard-ui.atugatran.repl.co/",
-      "img": "https://64.media.tumblr.com/ef87e1ba5480e5fa70f31da0edf2b70b/c82752bdb3a4f533-b0/s640x960/2ec07db8de4622076413a0e282d6b992714a67c0.pnj"
-    },
-    {
-      "id": "2",
-      "title": "COUNTDOWN TO MY BIRTHDAY",
-      "src": "https://replit.com/@Atugatran/COUNTDOWN-TO-MY-BIRTHDAY#index.html",
-      "demo": "https://COUNTDOWN-TO-MY-BIRTHDAY.atugatran.repl.co/",
-      "img": "https://64.media.tumblr.com/e86e85dc692490c3e13b1fc2e43a0105/51e01c364926a98f-f8/s640x960/3792972932738e09f3369b1d35bc0f3437571584.pnj"
-    },
-    {
-      "id": "3",
-      "title": "Coder Coffee & Bugs",
-      "src": "https://replit.com/@Atugatran/Coder-Coffee-and-Bugs#code/main.js",
-      "demo": "https://Coder-Coffee-and-Bugs.atugatran.repl.co",
-      "img": "https://64.media.tumblr.com/7ebc380aabab53ed7eb310c6cf36ac3c/d5a8eb6141f0510a-ee/s640x960/8de2d80daca82e0ee0997988739f72a2e0741272.pnj"
-    },
-    {
-      "id": "4",
-      "title": "Image Slider",
-      "src": "https://replit.com/@Atugatran/Image-slider",
-      "demo": "https://Image-slider.atugatran.repl.co",
-      "img": "https://64.media.tumblr.com/f41284a00f94449d5a8b3c4bf71c05b4/647cbe64d4bf9212-5a/s1280x1920/f9f280ce25cee3baad447e765bfcb89147fc72c1.pnj"
-    },
-    {
-      "id": "5",
-      "title": "Resume",
-      "src": "https://github.com/Atugatran/Resume",
-      "demo": "https://atugatran-projects.github.io/Resume/",
-      "img": "https://64.media.tumblr.com/b524ab98a28a02c7203224197384c8ae/dc890a0198e611ce-91/s640x960/671b799b3609643694b2ef2386bc707fbae1f73a.jpg"
-    }
-  ]
-  
+  {
+    "id": "1",
+    "title": "Project Management Dashboard UI",
+    "src": "https://github.com/atugatran-projects/Project-Management-Dashboard-UI",
+    "demo": "https://atugatran-projects.github.io/Project-Management-Dashboard-UI/",
+    "img": "https://64.media.tumblr.com/ef87e1ba5480e5fa70f31da0edf2b70b/c82752bdb3a4f533-b0/s640x960/2ec07db8de4622076413a0e282d6b992714a67c0.pnj"
+  },
+  {
+    "id": "2",
+    "title": "COUNTDOWN TO MY BIRTHDAY",
+    "src": "https://github.com/atugatran-projects/COUNTDOWN-TO-MY-BIRTHDAY",
+    "demo": "https://atugatran-projects.github.io/COUNTDOWN-TO-MY-BIRTHDAY/",
+    "img": "https://64.media.tumblr.com/e86e85dc692490c3e13b1fc2e43a0105/51e01c364926a98f-f8/s640x960/3792972932738e09f3369b1d35bc0f3437571584.pnj"
+  },
+  {
+    "id": "3",
+    "title": "Coder Coffee & Bugs",
+    "src": "https://replit.com/@Atugatran/Coder-Coffee-and-Bugs#code/main.js",
+    "demo": "https://Coder-Coffee-and-Bugs.atugatran.repl.co",
+    "img": "https://64.media.tumblr.com/7ebc380aabab53ed7eb310c6cf36ac3c/d5a8eb6141f0510a-ee/s640x960/8de2d80daca82e0ee0997988739f72a2e0741272.pnj"
+  },
+  {
+    "id": "4",
+    "title": "Image Slider",
+    "src": "https://github.com/atugatran-projects/Image-slider",
+    "demo": "https://atugatran-projects.github.io/Image-slider/",
+    "img": "https://64.media.tumblr.com/f41284a00f94449d5a8b3c4bf71c05b4/647cbe64d4bf9212-5a/s1280x1920/f9f280ce25cee3baad447e765bfcb89147fc72c1.pnj"
+  },
+  {
+    "id": "5",
+    "title": "Resume",
+    "src": "https://github.com/Atugatran/Resume",
+    "demo": "https://atugatran-projects.github.io/Resume/",
+    "img": "https://64.media.tumblr.com/b524ab98a28a02c7203224197384c8ae/dc890a0198e611ce-91/s640x960/671b799b3609643694b2ef2386bc707fbae1f73a.jpg"
+  },
+  {
+    "id": "6",
+    "title": "Clock",
+    "demo": "https://atugatran-projects.github.io/Clock/",
+    "src": "https://github.com/atugatran-projects/Clock",
+    "img": "https://64.media.tumblr.com/933591ce4e5061a6b5cf7f07a4dcc363/2bc9d02c242b900a-05/s1280x1920/d1d110c03173548638dcd6c8e831b7657ea17123.pnj"
+  },
+  {
+    "id": "7",
+    "title": "Calculator",
+    "src": "https://github.com/atugatran-projects/Calculator",
+    "demo": "https://atugatran-projects.github.io/Calculator/",
+    "img": "https://64.media.tumblr.com/6d797611dfb7c9295ca85fb5842e8020/d6e180c63c6f68f7-b7/s1280x1920/bd5833c32330399ead38f6aaf347c7f8d240115a.pnj"
+  },
+  {
+    "id": "8",
+    "title": "Guess-the-number",
+    "src": "https://github.com/atugatran-projects/Guess-the-number",
+    "demo": "https://atugatran-projects.github.io/Guess-the-number/",
+    "img": "https://64.media.tumblr.com/c43e6a190f284edc0be0995a924533f3/0c55e49195ee098e-84/s640x960/c7b6599727b51e8e52f4cec3b20725dfb0dcef90.pnj"
+  },
+  {
+    "id": "9",
+    "title": "ClipPath-Text",
+    "src": "https://github.com/atugatran-projects/ClipPath-Text",
+    "demo": "https://atugatran-projects.github.io/ClipPath-Text/",
+    "img": "https://64.media.tumblr.com/31801aad40a6b1819b210ae429f695f1/b19ab5e1ab9fcfd8-e1/s1280x1920/f846105fc14d2b868b1af62c70c9f40d43015b03.pnj"
+  },
+  {
+    "id": "10",
+    "title": "Car-Animation",
+    "src": "https://github.com/atugatran-projects/Car-Animation",
+    "demo": "https://atugatran-projects.github.io/Car-Animation/",
+    "img": "https://64.media.tumblr.com/c023fc66995c2e46413c5e60a25460d1/4ab572842d792842-70/s1280x1920/5d61011990a89fd505f1d77c55dc6d9d36532b7b.pnj"
+  },
+  {
+    "id": "11",
+    "title": "SnakeMania",
+    "src": "https://github.com/atugatran-projects/SnakeMania",
+    "demo": "https://atugatran-projects.github.io/SnakeMania/",
+    "img": "https://64.media.tumblr.com/4850ada427ecc0b23d20ff1ba8203b44/4c5d62033a5b21af-19/s640x960/c3c85f943926348cd1279a84e68871a54017577a.pnj"
+  },
+  {
+    "id": "12",
+    "title": "iDragon",
+    "src": "https://github.com/atugatran-projects/iDragon",
+    "demo": "https://atugatran-projects.github.io/iDragon/",
+    "img": "https://64.media.tumblr.com/e8e0e967247474c505a4cf1edf6cd5a8/ec5bc70fc93712d8-53/s640x960/b439419f43768c715cb5c724f1fd33ccdfed023a.pnj"
+  },
+  {
+    "id": "13",
+    "title": "Tic-Tac-Toe",
+    "src": "https://github.com/atugatran-projects/Tic-Tac-Toe",
+    "demo": "https://atugatran-projects.github.io/Tic-Tac-Toe/",
+    "img": "https://64.media.tumblr.com/71f7714a513f5d353c7b889b375def7c/d39952dcde8053e7-bb/s2048x3072/7bf25ae0a5e785f6dafc80ffb2ffc19c6f4ea1a8.pnj"
+  },
+  {
+    "id": "14",
+    "title": "My-Notes",
+    "src": "https://github.com/atugatran-projects/My-Notes",
+    "demo": "https://atugatran-projects.github.io/My-Notes/",
+    "img": "https://64.media.tumblr.com/8b8b27961457570d992f18915a2e7ae3/625917d545b73a85-75/s1280x1920/07860f5b11ac991cdf9079c3276ac43a34e84a87.pnj"
+  },
+  {
+    "id": "15",
+    "title": "Wheather-app",
+    "src": "https://github.com/atugatran-projects/Wheather-app",
+    "demo": "https://atugatran-wheatherapp.netlify.app/",
+    "img": "https://64.media.tumblr.com/bd8497030965728f717f191885dd3941/8abd7ef29b452d9f-1c/s640x960/71a45fbcdb8c4ff25dcdb246a37ad8db493f47c0.pnj"
+  },
+  {
+    "id": "16",
+    "title": "My-Todos",
+    "src": "https://github.com/atugatran-projects/My-Todos",
+    "demo": "https://atugatran-projects.github.io/My-Todos/",
+    "img": "https://64.media.tumblr.com/a30bdd1a19deed19cb2454432770d0b6/6049ac4d3220356c-4d/s640x960/e137afdb6dd00b97cbfa48835a77cdc7c9fede56.pnj"
+  }
+]
