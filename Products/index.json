@@ -1,7 +1,7 @@
 [
   {
     "id": "1",
-    "name": "APPLE iPhone 13",
+    "name": "iPhone 13",
     "company": "apple",
     "price": 6299900,
     "colors": ["#ff0000", "#000000", "#0000FF"],
@@ -53,7 +53,7 @@
   },
   {
     "id": "2",
-    "name": "SAMSUNG Galaxy S22 Ultra 5G",
+    "name": "SAMSUNG Galaxy S22 Ultra",
     "company": "samsung",
     "price": 11899900,
     "colors": ["#000", "#22D3EF"],
@@ -105,7 +105,7 @@
   },
   {
     "id": "3",
-    "name": "ASUS ROG Strix SCAR 17 ",
+    "name": "Asus Rog Strix Scar",
     "company": "ASUS",
     "price": 26199000,
     "colors": ["#000000"],
@@ -156,7 +156,7 @@
   },
   {
     "id": "4",
-    "name": "MSI Core i9 12th Gen ",
+    "name": "MSI Katana GF76",
     "company": "MSI",
     "price": 39299000,
     "colors": ["#000000", "#CDD0D0"],
@@ -208,7 +208,7 @@
   },
   {
     "id": "5",
-    "name": "2021 iMac with 4.5K Retina display",
+    "name": "Apple Imac Computer",
     "company": "apple",
     "price": 20099900,
     "colors": ["#000", "#CDD0D0"],
@@ -312,7 +312,7 @@
   },
   {
     "id": "7",
-    "name": "Bravo 15",
+    "name": "MSI Bravo 15",
     "company": "MSI",
     "price": 4999000,
     "colors": ["#CDD0D0", "#000"],
@@ -364,7 +364,7 @@
   },
   {
     "id": "8",
-    "name": "Topmate S1-X laptop Stand",
+    "name": "Table Laptop Stand",
     "price": 50900,
     "company": "Topmate",
     "colors": ["#000", "#CDD0D0"],
@@ -417,7 +417,7 @@
   },
   {
     "id": "9",
-    "name": "APPLE Watch SE GPS",
+    "name": "APPLE Watch SE",
     "price": 3790000,
     "company": "apple",
     "colors": ["#000000"],
@@ -469,7 +469,7 @@
   },
   {
     "id": "10",
-    "name": "Adofys Adjustable Aluminium Laptop Stand",
+    "name": "Computer Stand Riser",
     "company": "Adofys",
     "price": 229900,
     "colors": ["#ff0000", "#22D3EF", "#000000"],
@@ -520,7 +520,7 @@
   },
   {
     "id": "11",
-    "name": "Icon Buzz BT Calling with 1.69' display",
+    "name": "Noise Icon Buzz BT",
     "company": "noice",
     "price": 99999,
     "colors": ["#000000", "#CDD0D0"],
