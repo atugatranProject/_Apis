@@ -53,9 +53,9 @@
   },
   {
     "id": "2",
-    "name": "SAMSUNG Galaxy S20 FE",
+    "name": "SAMSUNG Galaxy S22 Ultra 5G",
     "company": "samsung",
-    "price": 5001000,
+    "price": 11899900,
     "colors": ["#000", "#22D3EF"],
     "description": "The mobile is compact with its 6.2-inch OLED screen and far lighter at 168g. It perfectly captures the design, looks, and feel of the expensive one. It comes with a snapdragon processor with a 5n chip in it. It has a 200mp camera in the rear 100mp in front perfect for selfie lovers. It also support HDR content means you can watch 4K content on it.",
     "category": "mobile",
@@ -63,13 +63,13 @@
     "stock": 10,
     "reviews": 28,
     "stars": 4.4,
-    "image": "https://64.media.tumblr.com/b9e4c45ec3408d75738a62e42bc2d65e/153cc0116e94cb01-3d/s640x960/a7fe1da92b968bcbda650f9b323949bd4b3f810f.jpg",
+    "image": "https://64.media.tumblr.com/01dce699024915073a1de0c993f4ae3c/0e34b089b1b3eab3-25/s1280x1920/01fbbaa5a5d076d7714c221b20aa90985e578f25.jpg",
     "images": [
       {
         "id": "randomid1",
         "width": 1080,
         "height": 650,
-        "url": " https://images.pexels.com/photos/404280/pexels-photo-404280.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "url": "https://64.media.tumblr.com/01dce699024915073a1de0c993f4ae3c/0e34b089b1b3eab3-25/s1280x1920/01fbbaa5a5d076d7714c221b20aa90985e578f25.jpg",
         "filename": "prod-1.png",
         "size": 1080,
         "type": "image/png"
@@ -78,7 +78,7 @@
         "id": "randomid2",
         "width": 1080,
         "height": 650,
-        "url": " https://images.pexels.com/photos/1275229/pexels-photo-1275229.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "url": " https://64.media.tumblr.com/7d8796b684f79a888d7c7ee099648c4f/3ce37db97691f6ae-2a/s1280x1920/14257a3888d67da2397be02f14c4d41ac52ba8ae.jpg",
         "filename": "prod-2.png",
         "size": 1080,
         "type": "image/png"
@@ -87,7 +87,7 @@
         "id": "randomid3",
         "width": 1080,
         "height": 650,
-        "url": " https://images.pexels.com/photos/4224099/pexels-photo-4224099.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "url": "https://64.media.tumblr.com/360407b5a2bbd7080634e799d7175964/7fdb6c10a39bc48f-7e/s1280x1920/b365138d304cb58348d596e920bcc89078d9ad85.jpg",
         "filename": "prod-3.png",
         "size": 1080,
         "type": "image/png"
@@ -96,32 +96,31 @@
         "id": "randomid4",
         "width": 1080,
         "height": 650,
-        "url": "https://images.pexels.com/photos/1619651/pexels-photo-1619651.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "url": "https://64.media.tumblr.com/a40f3d3bb5a87c9248e4f9f105425b70/3aaa5ca6eb930f19-f0/s1280x1920/ffa1f6e0938606a74981b121606bde6b63d45597.jpg",
         "filename": "prod-4.png",
         "size": 1080,
         "type": "image/png"
       }
     ]
-  }
-  ,
+  },
   {
     "id": "3",
-    "name": "Dell Series",
-    "company": "dell",
-    "price": 702899,
+    "name": "ASUS ROG Strix SCAR 17 ",
+    "company": "ASUS",
+    "price": 26199000,
     "colors": ["#22D3EF", "#CDD0D0"],
     "description": "The Laptop is compact with its 6.2-inch OLED screen and far lighter at 168g. It perfectly captures the design, looks, and feel of the expensive one. It comes with a snapdragon processor with a 5n chip in it. It has a 200mp camera in the rear 100mp in front perfect for selfie lovers. It also support HDR content means you can watch 4K content on it.",
     "category": "laptop",
     "stock": 12,
     "reviews": 28,
     "stars": 4.2,
-    "image": "https://64.media.tumblr.com/b6fad1a28f3d04423b265b85eb3ef818/3646b50303e3ae82-70/s640x960/6a783cef1fa5530c01da103d4dd89633070be977.jpg",
+    "image": "https://64.media.tumblr.com/9ebefacb1106e05c8e8e8b2d81d40237/999dcad52fb264da-3b/s1280x1920/d4a8bd4f48f5f71778c5aa086f1af26b5c2a1fb8.jpg",
     "images": [
       {
         "id": "randomid1",
         "width": 1080,
         "height": 650,
-        "url": "https://images.pexels.com/photos/7974/pexels-photo.jpg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "url": "https://64.media.tumblr.com/9ebefacb1106e05c8e8e8b2d81d40237/999dcad52fb264da-3b/s1280x1920/d4a8bd4f48f5f71778c5aa086f1af26b5c2a1fb8.jpg",
         "filename": "prod-1.png",
         "size": 1080,
         "type": "image/png"
@@ -130,7 +129,7 @@
         "id": "randomid2",
         "width": 1080,
         "height": 650,
-        "url": " https://images.pexels.com/photos/1275229/pexels-photo-1275229.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "url": "https://64.media.tumblr.com/6b3734cac2de9d0d5ff09c75c6eb3e70/1e56833678883ab8-cb/s1280x1920/f671a768b272a51ea2145c73b3240325ce9ebddc.jpg",
         "filename": "prod-2.png",
         "size": 1080,
         "type": "image/png"
@@ -139,7 +138,7 @@
         "id": "randomid3",
         "width": 1080,
         "height": 650,
-        "url": " https://images.pexels.com/photos/4224099/pexels-photo-4224099.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "url": "https://64.media.tumblr.com/667013dad44924d7dfe1cc336163d293/6dc627fef3fdd933-28/s1280x1920/604eaf3bcfebac8c7db022fb1557eca09c55a543.jpg",
         "filename": "prod-3.png",
         "size": 1080,
         "type": "image/png"
@@ -148,7 +147,7 @@
         "id": "randomid4",
         "width": 1080,
         "height": 650,
-        "url": "https://images.pexels.com/photos/1619651/pexels-photo-1619651.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "url": "https://64.media.tumblr.com/5f2ba4a2de607e710261881ac4f07449/2cc2f673ed0b51ab-9c/s1280x1920/b40335b36cb1a09479e29388e9f13c9d4f9cdda4.jpg",
         "filename": "prod-4.png",
         "size": 1080,
         "type": "image/png"
