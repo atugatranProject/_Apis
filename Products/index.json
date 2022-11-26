@@ -4,8 +4,8 @@
     "name": "APPLE iPhone 13",
     "company": "apple",
     "price": 6299900,
-    "colors": ["#ff0000", "#000000", "#CDD0D0"],
-    "description": "The mobile is compact with its 6.2-inch OLED screen and far lighter at 168g. It perfectly captures the design, looks, and feel of the expensive one. It comes with a snapdragon processor with a 5n chip in it. It has a 200mp camera in the rear 100mp in front perfect for selfie lovers. It also support HDR content means you can watch 4K content on it.",
+    "colors": ["#ff0000", "#000000", "#0000FF"],
+    "description": "iPhone 13. boasts an advanced dual-camera system that allows you to click mesmerising pictures with immaculate clarity. Furthermore, the lightning-fast A15 Bionic chip allows for seamless multitasking, elevating your performance to a new dimension. A big leap in battery life, a durable design, and a bright Super Retina XDR display facilitate boosting your user experience.",
     "category": "mobile",
     "featured": true,
     "stock": 5,
@@ -57,12 +57,12 @@
     "company": "samsung",
     "price": 11899900,
     "colors": ["#000", "#22D3EF"],
-    "description": "The mobile is compact with its 6.2-inch OLED screen and far lighter at 168g. It perfectly captures the design, looks, and feel of the expensive one. It comes with a snapdragon processor with a 5n chip in it. It has a 200mp camera in the rear 100mp in front perfect for selfie lovers. It also support HDR content means you can watch 4K content on it.",
+    "description": "The first Galaxy S with embedded S Pen. Write comfortably like pen on paper, turn quick notes into legible text and use Air Actions to control your phone remotely. Improved latency in Samsung Notes makes every pen stroke feel as natural as ink on paper - and you can convert those hastily written ideas into legible text.5G Ready powered by Galaxy�s first 4nm processor. Our fastest, most powerful chip ever. That means, a faster CPU and GPU compared to Galaxy S21 Ultra. It�s an epic leap for smartphone technology. The Dynamic AMOLED 2x display improves outdoor visibility with up to 1750 Nits in peak brightness. And the 120Hz adaptive refresh rate keeps the scroll smooth, adjusting to what's on screen for an optimized view. Our most advanced Pro-grade Camera yet, packing the power of a professional's kit in one handheld device. Also lets you make your nights epic with Nightography: The sensor pulls in more light, the Super Clear Lens tones down lens flare, and fast-acting AI delivers near-instant intelligent processing..",
     "category": "mobile",
     "shipping": true,
     "stock": 10,
     "reviews": 28,
-    "stars": 4.4,
+    "stars": 4.1,
     "image": "https://64.media.tumblr.com/01dce699024915073a1de0c993f4ae3c/0e34b089b1b3eab3-25/s1280x1920/01fbbaa5a5d076d7714c221b20aa90985e578f25.jpg",
     "images": [
       {
@@ -108,11 +108,11 @@
     "name": "ASUS ROG Strix SCAR 17 ",
     "company": "ASUS",
     "price": 26199000,
-    "colors": ["#22D3EF", "#CDD0D0"],
-    "description": "The Laptop is compact with its 6.2-inch OLED screen and far lighter at 168g. It perfectly captures the design, looks, and feel of the expensive one. It comes with a snapdragon processor with a 5n chip in it. It has a 200mp camera in the rear 100mp in front perfect for selfie lovers. It also support HDR content means you can watch 4K content on it.",
+    "colors": ["#000000"],
+    "description": "ASUS ROG Strix SCAR 17 (2022) Core i9 12th Gen - (32 GB/2 TB SSD/Windows 11 Home/8 GB Graphics/NVIDIA GeForce RTX 3070 Ti/240 Hz) G733ZW-LL105WS Gaming Laptop  (17.3 inch, Off Black, 2.90 kg, With MS Office).",
     "category": "laptop",
     "stock": 12,
-    "reviews": 28,
+    "reviews": 8539,
     "stars": 4.2,
     "image": "https://64.media.tumblr.com/9ebefacb1106e05c8e8e8b2d81d40237/999dcad52fb264da-3b/s1280x1920/d4a8bd4f48f5f71778c5aa086f1af26b5c2a1fb8.jpg",
     "images": [
@@ -153,26 +153,26 @@
         "type": "image/png"
       }
     ]
-  }, 
+  },
   {
     "id": "4",
-    "name": "Nokia 420",
-    "company": "nokia",
-    "price": 102999,
+    "name": "MSI Core i9 12th Gen ",
+    "company": "MSI",
+    "price": 39299000,
     "colors": ["#000000", "#CDD0D0"],
-    "description": "The mobile is compact with its 6.2-inch OLED screen and far lighter at 168g. It perfectly captures the design, looks, and feel of the expensive one. It comes with a snapdragon processor with a 5n chip in it. It has a 200mp camera in the rear 100mp in front perfect for selfie lovers. It also support HDR content means you can watch 4K content on it.",
-    "category": "mobile",
+    "description": "MSI Core i9 12th Gen - (32 GB/2 TB SSD/Windows 11 Home/16 GB Graphics/NVIDIA GeForce RTX 3080 Ti/120 Hz) Raider GE77HX 12UHS-205IN Gaming Laptop  (17.3 Inch, Titanium Dark Grey, 2.9 Kg).",
+    "category": "laptop",
     "shipping": true,
     "stock": 6,
     "reviews": 28,
     "stars": 3.8,
-    "image": "https://64.media.tumblr.com/277380f20f127d52494cc550856f3915/a9b36cc46dd8695f-f6/s640x960/31e1377c3adbe5cd24788d37535c3f7db4f9b5b0.jpg",
+    "image": "https://64.media.tumblr.com/89b4082f9f0bb70987db70f9ed3df6c2/7e20fa14bba80a26-0f/s1280x1920/03ca5c1bf8aacaa43f91d901c38471e9ac9ddd0b.jpg",
     "images": [
       {
         "id": "randomid1",
         "width": 1080,
         "height": 650,
-        "url": "https://images.pexels.com/photos/4224099/pexels-photo-4224099.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "url": "https://64.media.tumblr.com/89b4082f9f0bb70987db70f9ed3df6c2/7e20fa14bba80a26-0f/s1280x1920/03ca5c1bf8aacaa43f91d901c38471e9ac9ddd0b.jpg",
         "filename": "prod-1.png",
         "size": 1080,
         "type": "image/png"
@@ -181,7 +181,7 @@
         "id": "randomid2",
         "width": 1080,
         "height": 650,
-        "url": " https://images.pexels.com/photos/1275229/pexels-photo-1275229.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "url": "https://64.media.tumblr.com/6ed9f05f7fa6ba7c846bb9b458529598/d1f6765edf06af53-ea/s1280x1920/37ddd16206aea2d493d874f9cff3bc72858b84df.jpg",
         "filename": "prod-2.png",
         "size": 1080,
         "type": "image/png"
@@ -190,7 +190,7 @@
         "id": "randomid3",
         "width": 1080,
         "height": 650,
-        "url": " https://images.pexels.com/photos/4224099/pexels-photo-4224099.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "url": "https://64.media.tumblr.com/72e07bc71b46229340836e4018c8173d/e92015c88d9e3056-2d/s1280x1920/4a4163aec212eb2c4ec6b3737ba470d6951b0068.jpg",
         "filename": "prod-3.png",
         "size": 1080,
         "type": "image/png"
@@ -199,33 +199,32 @@
         "id": "randomid4",
         "width": 1080,
         "height": 650,
-        "url": "https://images.pexels.com/photos/1619651/pexels-photo-1619651.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "url": "https://64.media.tumblr.com/732edc3d0ad451957bb8e563287ec63b/1cefa78f2e175328-5a/s1280x1920/5815794a955216a46c2d3b836a30af0a04f6e3b1.jpg",
         "filename": "prod-4.png",
         "size": 1080,
         "type": "image/png"
       }
     ]
-  }
-  ,
+  },
   {
     "id": "5",
-    "name": "Mac Pc",
+    "name": "2021 iMac with 4.5K Retina display",
     "company": "apple",
     "price": 200999,
     "colors": ["#000", "#CDD0D0"],
-    "description": "The Computer is compact with its 6.2-inch OLED screen and far lighter at 168g. It perfectly captures the design, looks, and feel of the expensive one. It comes with a snapdragon processor with a 5n chip in it. It has a 200mp camera in the rear 100mp in front perfect for selfie lovers. It also support HDR content means you can watch 4K content on it.",
+    "description": "APPLE 2021 iMac with 4.5K Retina display M1 (8 GB Unified/256 GB SSD/Mac OS Big Sur/24 Inch Screen/MGTF3HN/A)  (Silver, 461 mm x 547 mm x 130 mm, 4.46 kg)",
     "category": "computer",
     "shipping": true,
     "stock": 4,
     "reviews": 28,
     "stars": 2.8,
-    "image": "https://64.media.tumblr.com/1d772b3ef4adcced53d67662b413ebbe/27768c8aa67e578f-03/s640x960/19191b315eb728602568e84cf7f1627392f561f2.jpg",
+    "image": "https://64.media.tumblr.com/f42ac73bd60b7c020d0263109168ee85/427fa5adf9660068-f7/s1280x1920/0e777b38b1621204d51ea4a6a5a611356bf34e9e.jpg",
     "images": [
       {
         "id": "randomid1",
         "width": 1080,
         "height": 650,
-        "url": "https://images.pexels.com/photos/1029757/pexels-photo-1029757.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "url": "https://64.media.tumblr.com/f42ac73bd60b7c020d0263109168ee85/427fa5adf9660068-f7/s1280x1920/0e777b38b1621204d51ea4a6a5a611356bf34e9e.jpg",
         "filename": "prod-1.png",
         "size": 1080,
         "type": "image/png"
@@ -234,7 +233,7 @@
         "id": "randomid2",
         "width": 1080,
         "height": 650,
-        "url": " https://images.pexels.com/photos/1275229/pexels-photo-1275229.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "url": "https://64.media.tumblr.com/21da4bc5587156eda8848de476eaf7ad/8401f0d9a6355df5-b6/s1280x1920/fa4ceeccdb83c320c986e80a650aea584ba9fa41.jpg",
         "filename": "prod-2.png",
         "size": 1080,
         "type": "image/png"
@@ -243,7 +242,7 @@
         "id": "randomid3",
         "width": 1080,
         "height": 650,
-        "url": " https://images.pexels.com/photos/4224099/pexels-photo-4224099.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "url": "https://64.media.tumblr.com/64b169c65dde29b07cb07dd7a0092d46/f2aa8042411c92f6-8d/s1280x1920/3c4de4760e34d22b264f9b3b81852c839ade7cda.jpg",
         "filename": "prod-3.png",
         "size": 1080,
         "type": "image/png"
@@ -252,14 +251,13 @@
         "id": "randomid4",
         "width": 1080,
         "height": 650,
-        "url": "https://images.pexels.com/photos/1619651/pexels-photo-1619651.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "url": "https://64.media.tumblr.com/b7e0a8d5d411ea6a8abfff1b46b044f0/8f8619b0b524da5c-0c/s1280x1920/91e0d050bbdecf654c13645e71cadfc5e5e59915.jpg",
         "filename": "prod-4.png",
         "size": 1080,
         "type": "image/png"
       }
     ]
-  }
-  ,
+  },
   {
     "id": "6",
     "name": "Macbook Pro",
@@ -311,8 +309,7 @@
         "type": "image/png"
       }
     ]
-  }
-  ,
+  },
   {
     "id": "7",
     "name": "Asus gseries",
@@ -364,8 +361,7 @@
         "type": "image/png"
       }
     ]
-  }
-  ,
+  },
   {
     "id": "8",
     "name": "accessories",
@@ -418,8 +414,7 @@
         "type": "image/png"
       }
     ]
-  }
-  ,
+  },
   {
     "id": "9",
     "name": "Iwatch",
@@ -471,8 +466,7 @@
         "type": "image/png"
       }
     ]
-  }
-  ,
+  },
   {
     "id": "10",
     "name": "user need",
@@ -523,8 +517,7 @@
         "type": "image/png"
       }
     ]
-  }
-  ,
+  },
   {
     "id": "11",
     "name": "rolex premium",
@@ -575,7 +568,7 @@
         "type": "image/png"
       }
     ]
-  },  
+  },
   {
     "id": "12",
     "name": "galaxy w20",
@@ -627,5 +620,5 @@
         "type": "image/png"
       }
     ]
-  }  
+  }
 ]
