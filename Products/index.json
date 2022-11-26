@@ -1,23 +1,23 @@
 [
   {
     "id": "1",
-    "name": "iphone 13",
+    "name": "APPLE iPhone 13",
     "company": "apple",
-    "price": 7990000,
+    "price": 6299900,
     "colors": ["#ff0000", "#000000", "#CDD0D0"],
     "description": "The mobile is compact with its 6.2-inch OLED screen and far lighter at 168g. It perfectly captures the design, looks, and feel of the expensive one. It comes with a snapdragon processor with a 5n chip in it. It has a 200mp camera in the rear 100mp in front perfect for selfie lovers. It also support HDR content means you can watch 4K content on it.",
     "category": "mobile",
     "featured": true,
     "stock": 5,
-    "reviews": 58,
-    "stars": 4.8,
-    "image": "https://64.media.tumblr.com/7a1f99e6e475d65d4c5c92c502f7ec09/9d290bb302da3951-e4/s640x960/a07f2536829a8f5d83198bd14381eec1fe42bdba.pnj",
+    "reviews": 8858,
+    "stars": 4.7,
+    "image": "https://64.media.tumblr.com/af745982854889a92da30e55531522ea/8970ef04ab02f96c-17/s640x960/6ca126f53d098e31e1b7fcfc354501ab6aeeaf8f.pnj",
     "images": [
       {
         "id": "randomid1",
         "width": 1080,
         "height": 650,
-        "url": "https://64.media.tumblr.com/7a1f99e6e475d65d4c5c92c502f7ec09/9d290bb302da3951-e4/s640x960/a07f2536829a8f5d83198bd14381eec1fe42bdba.pnj",
+        "url": "https://64.media.tumblr.com/af745982854889a92da30e55531522ea/8970ef04ab02f96c-17/s640x960/6ca126f53d098e31e1b7fcfc354501ab6aeeaf8f.pnj",
         "filename": "prod-1.png",
         "size": 1080,
         "type": "image/png"
@@ -26,7 +26,7 @@
         "id": "randomid2",
         "width": 1080,
         "height": 650,
-        "url": "https://64.media.tumblr.com/b03f9a7bebde757ae5b2e20818c1fcbe/1fb64d3540da726b-56/s1280x1920/da212bf5b31446122a1563abb34189948bf918d2.jpg",
+        "url": "https://64.media.tumblr.com/3ef52ba1bdb058dbdbe754baad3fa5c3/0659bd2c9f03d692-24/s1280x1920/306c33f9ed63701ee28d7a9b7758b3c164cf589f.jpg",
         "filename": "prod-2.png",
         "size": 1080,
         "type": "image/png"
@@ -35,7 +35,7 @@
         "id": "randomid3",
         "width": 1080,
         "height": 650,
-        "url": "https://64.media.tumblr.com/60ea82d796434186eeacee67fa720cc6/02c15742dadf3972-d2/s1280x1920/955ae636bac0e66543b06bb12d288e43137dbf88.jpg",
+        "url": "https://64.media.tumblr.com/3edb700741db65555f530702ab7fb3c5/5b3e894bbfadd345-e3/s1280x1920/4104ffec954d51f7d83157da6c1e9bae0e7cb797.jpg",
         "filename": "prod-3.png",
         "size": 1080,
         "type": "image/png"
@@ -44,7 +44,7 @@
         "id": "randomid4",
         "width": 1080,
         "height": 650,
-        "url": "https://64.media.tumblr.com/3ab5c33986b43c7443870e65f3da7d7c/57026bc444782273-c1/s640x960/6146b7824da0a6bad10f61715196b8e2f550cdd7.jpg",
+        "url": "https://64.media.tumblr.com/15d27e4afca5b3a497e6b916a01cb9ad/ef67314fb4c868b0-9a/s1280x1920/95d3e88f6f85bd0d3bd5791c83c3b70809970eaa.jpg",
         "filename": "prod-4.png",
         "size": 1080,
         "type": "image/png"
