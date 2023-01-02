@@ -129,6 +129,14 @@
   },
   {
     "id": "17",
+    "title": "Wheather-app 2",
+    "src": "https://github.com/atugatran-projects/Weather-app-2",
+    "demo": "https://atugatran-projects.github.io/Weather-app-2/",
+    "desc": " Lorem ipsum dolor sit amet consectetur adipisicing elit. Dicta facilis officiis molestiae, dolorum, perferendis iure repellendus excepturi quam voluptates quis fugiat facere vel. Maiores possimus amet obcaecati, quisquam fugit molestias!",
+    "img": "https://64.media.tumblr.com/5752e97b8d3aab9241306def79daa3ca/f012114009b95ee9-8d/s1280x1920/04c8d9aaae259725912ec81cdd1279d495a68a0a.pnj"
+  },
+  {
+    "id": "18",
     "title": "My-Todos",
     "src": "https://github.com/atugatran-projects/My-Todos",
     "demo": "https://atugatran-projects.github.io/My-Todos/",
