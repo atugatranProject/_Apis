@@ -14,7 +14,7 @@ https://atugatran-projects.github.io/_Apis/Projects/index.json
 https://atugatran-projects.github.io/_Apis/Mini-Projects/index.json
 ```
 
-## Mini-Projects
+## Backend
 ```
 https://atugatran-projects.github.io/_Apis/backend/index.json
 ```
