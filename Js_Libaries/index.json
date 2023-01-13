@@ -9,22 +9,6 @@
   },
   {
     "id": 2,
-    "title": "Vite",
-    "desc": "Next generation frontend tooling. It's fast!",
-    "src": "https://github.com/Js-Libaries/vite",
-    "demo": "https://vitejs.dev/",
-    "img": "https://64.media.tumblr.com/09b65d74e3c115ef98775500d52b6b65/ddcc73a9fd68e2dc-33/s640x960/ee2df10239b8d11bd850c8ee17abe9700ccdee84.pnj"
-  },
-  {
-    "id": 3,
-    "title": "Next.js",
-    "desc": "The React Framework",
-    "src": "https://github.com/Js-Libaries/next.js",
-    "demo": "https://nextjs.org/",
-    "img": "https://64.media.tumblr.com/fd3d4d27fbdba2f259230810290db71d/9ed16c6bc00c289b-44/s1280x1920/57de226e6bc715704f6259f9cea1f0b9e82c1169.pnj"
-  },
-  {
-    "id": 4,
     "title": "React",
     "desc": "A declarative, efficient, and flexible JavaScript library for building user interfaces.",
     "src": "https://github.com/Js-Libaries/react",
@@ -32,7 +16,7 @@
     "img": "https://64.media.tumblr.com/61adc94a2e07a4faa29a7718ac00b52e/db5faf7a4cd6a263-4f/s640x960/86bd8b7cea35d3e48291b8a7d0b86df92c539f4d.pnj"
   },
   {
-    "id": 5,
+    "id": 3,
     "title": "Create-React-App",
     "desc": "Set up a modern web app by running one command.",
     "src": "https://github.com/Js-Libaries/create-react-app",
@@ -40,7 +24,7 @@
     "img": "https://64.media.tumblr.com/543bda23c458c25b6ed363783056ffa9/ee3bc87eb1fc8bc8-59/s640x960/0ffe622bd4c968125a250dbe34ee8fba405149b4.pnj"
   },
   {
-    "id": 6,
+    "id": 4,
     "title": "kaboom",
     "desc": "💥 JavaScript game library",
     "src": "https://github.com/Js-Libaries/kaboom",
@@ -48,7 +32,7 @@
     "img": "https://64.media.tumblr.com/2d84788785e3773a879f19d7bae801b1/c569d2e3ef8453a0-02/s640x960/286206bf020c327ebafedc4cfbbbfb723896cbd1.pnj"
   },
   {
-    "id": 7,
+    "id": 5,
     "title": "Typed.js",
     "desc": "A JavaScript Typing Animation Library",
     "src": "https://github.com/Js-Libaries/typed.js",
@@ -56,7 +40,7 @@
     "img": "https://64.media.tumblr.com/1d782b39d9e0bcc76d1e157ef0ed67fe/ba44364781379187-a7/s640x960/487955d26703e147c8802b7488f40bd66b47ebf3.pnj"
   },
   {
-    "id": 8,
+    "id": 6,
     "title": "Regexr",
     "desc": "RegExr is a HTML/JS based tool for creating, testing, and learning about Regular Expressions.",
     "src": "https://github.com/Js-Libaries/regexr",
@@ -64,7 +48,7 @@
     "img": "https://64.media.tumblr.com/16bd7380a4a50bec1d74e1972707c23d/283635855c178175-f1/s1280x1920/27637c1de583638702f82860d8cdabdf78686295.pnj"
   },
   {
-    "id": 9,
+    "id": 7,
     "title": "Awesome-Github-Profile",
     "desc": "🌐 A website of awesome Github Profile READMEs",
     "src": "https://github.com/Js-Libaries/awesome-github-profile",
@@ -72,7 +56,7 @@
     "img": "https://64.media.tumblr.com/c5f8e683bc26116bf7e56190b1cf3bb2/2a9843be7468d5fb-b6/s640x960/9f81afd26ab6bd968290ecb98e78347f74b9ca6f.pnj"
   },
   {
-    "id": 10,
+    "id": 8,
     "title": "Github-Profile-Readme-Generator",
     "desc": "🚀 Generate GitHub profile README easily with the latest add-ons like visitors count, GitHub stats, etc using minimal UI.",
     "src": "https://github.com/Js-Libaries/github-profile-readme-generator",
