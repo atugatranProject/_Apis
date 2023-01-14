@@ -3,7 +3,6 @@
     "id": 1,
     "title": "Aos (Animate on Scroll)",
     "desc": "Animate on scroll library",
-    "src": "https://github.com/Js-Libaries/Aos",
     "demo": "https://js-libaries.github.io/Aos/",
     "img": "https://64.media.tumblr.com/ac32d7ffe7ec3dc4f0c68b99f8f9925a/69a32bb977f69729-77/s640x960/304516c699e459761a2c17e0db5222571f012e85.pnj"
   },
@@ -11,7 +10,6 @@
     "id": 2,
     "title": "React",
     "desc": "A declarative, efficient, and flexible JavaScript library for building user interfaces.",
-    "src": "https://github.com/Js-Libaries/react",
     "demo": "https://reactjs.org/",
     "img": "https://64.media.tumblr.com/61adc94a2e07a4faa29a7718ac00b52e/db5faf7a4cd6a263-4f/s640x960/86bd8b7cea35d3e48291b8a7d0b86df92c539f4d.pnj"
   },
@@ -19,7 +17,6 @@
     "id": 3,
     "title": "Create-React-App",
     "desc": "Set up a modern web app by running one command.",
-    "src": "https://github.com/Js-Libaries/create-react-app",
     "demo": "https://create-react-app.dev/",
     "img": "https://64.media.tumblr.com/543bda23c458c25b6ed363783056ffa9/ee3bc87eb1fc8bc8-59/s640x960/0ffe622bd4c968125a250dbe34ee8fba405149b4.pnj"
   },
@@ -27,7 +24,6 @@
     "id": 4,
     "title": "kaboom",
     "desc": "💥 JavaScript game library",
-    "src": "https://github.com/Js-Libaries/kaboom",
     "demo": "https://kaboomjs.com/",
     "img": "https://64.media.tumblr.com/2d84788785e3773a879f19d7bae801b1/c569d2e3ef8453a0-02/s640x960/286206bf020c327ebafedc4cfbbbfb723896cbd1.pnj"
   },
@@ -35,7 +31,6 @@
     "id": 5,
     "title": "Typed.js",
     "desc": "A JavaScript Typing Animation Library",
-    "src": "https://github.com/Js-Libaries/typed.js",
     "demo": "https://mattboldt.com/demos/typed-js/",
     "img": "https://64.media.tumblr.com/1d782b39d9e0bcc76d1e157ef0ed67fe/ba44364781379187-a7/s640x960/487955d26703e147c8802b7488f40bd66b47ebf3.pnj"
   },
@@ -43,7 +38,6 @@
     "id": 6,
     "title": "Regexr",
     "desc": "RegExr is a HTML/JS based tool for creating, testing, and learning about Regular Expressions.",
-    "src": "https://github.com/Js-Libaries/regexr",
     "demo": "https://regexr.com/",
     "img": "https://64.media.tumblr.com/16bd7380a4a50bec1d74e1972707c23d/283635855c178175-f1/s1280x1920/27637c1de583638702f82860d8cdabdf78686295.pnj"
   },
@@ -51,7 +45,6 @@
     "id": 7,
     "title": "Awesome-Github-Profile",
     "desc": "🌐 A website of awesome Github Profile READMEs",
-    "src": "https://github.com/Js-Libaries/awesome-github-profile",
     "demo": "https://js-libaries.github.io/awesome-github-profile/",
     "img": "https://64.media.tumblr.com/c5f8e683bc26116bf7e56190b1cf3bb2/2a9843be7468d5fb-b6/s640x960/9f81afd26ab6bd968290ecb98e78347f74b9ca6f.pnj"
   },
@@ -59,8 +52,28 @@
     "id": 8,
     "title": "Github-Profile-Readme-Generator",
     "desc": "🚀 Generate GitHub profile README easily with the latest add-ons like visitors count, GitHub stats, etc using minimal UI.",
-    "src": "https://github.com/Js-Libaries/github-profile-readme-generator",
     "demo": "https://rahuldkjain.github.io/gh-profile-readme-generator/",
     "img": "https://64.media.tumblr.com/7958ae05bf711ef66a4951ca325160ea/05be40b7386244b1-77/s1280x1920/d63b8432508bb9ded2614c0f29c60877caeaccf1.pnj"
+  },
+  {
+    "id": 9,
+    "title": "swiperjs",
+    "desc": "Most modern mobile touch slider with hardware accelerated transitions",
+    "demo": "https://swiperjs.com/",
+    "img": "https://64.media.tumblr.com/093a7ecb34024e83f89532e76e958af2/82a7059fe3130dfd-fe/s1280x1920/ad8b809679781d3d4d229c7b29816b1b4f802172.jpg"
+  },
+  {
+    "id": 10,
+    "title": "Animejs",
+    "desc": "JavaScript animation engine",
+    "demo": "https://animejs.com/",
+    "img": "https://64.media.tumblr.com/74b75169a51be4342593077662272a0f/6a7add8d9b3e5a68-20/s640x960/6cb620b87e6130d48a08bcbd415640aa3f8cc5c1.jpg"
+  },
+  {
+    "id": 11,
+    "title": "granimjs",
+    "desc": "Create fluid and interactive gradient animations with this small javascript library.",
+    "demo": "https://sarcadass.github.io/granim.js/",
+    "img": "https://64.media.tumblr.com/7ce1eace895f96aae9f2db2c36327032/2fb0c2923e9c3c1d-22/s640x960/3d63259ef19a5de323ede305573a83879f72d4d4.jpg"
   }
 ]
