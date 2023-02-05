@@ -82,5 +82,26 @@
     "desc": "JavaScript 3D Library.",
     "demo": "https://threejs.org/",
     "img": "https://64.media.tumblr.com/eed16bd4a028b5dfd5084544556109a5/b6de763b67a89da2-45/s640x960/f747a0de775ee8ffd5d10aee8044eec5b6097d43.pnj"
+  },
+  {
+    "id": 13,
+    "title": "latentflip",
+    "desc": "Loupe is a little visualisation to help you understand how JavaScript's call stack/event loop/callback queue interact with each other.",
+    "demo": "http://latentflip.com/loupe/?code=JC5vbignYnV0dG9uJywgJ2NsaWNrJywgZnVuY3Rpb24gb25DbGljaygpIHsKICAgIHNldFRpbWVvdXQoZnVuY3Rpb24gdGltZXIoKSB7CiAgICAgICAgY29uc29sZS5sb2coJ1lvdSBjbGlja2VkIHRoZSBidXR0b24hJyk7ICAgIAogICAgfSwgMjAwMCk7Cn0pOwoKY29uc29sZS5sb2coIkhpISIpOwoKc2V0VGltZW91dChmdW5jdGlvbiB0aW1lb3V0KCkgewogICAgY29uc29sZS5sb2coIkNsaWNrIHRoZSBidXR0b24hIik7Cn0sIDUwMDApOwoKY29uc29sZS5sb2coIldlbGNvbWUgdG8gbG91cGUuIik7!!!",
+    "img": "https://64.media.tumblr.com/053c28020695b7c7c0d4ca2f25ba533b/8aa322df5f6a7c4f-17/s640x960/8f12f789ab7340d8b032c0a1fdef41be44167783.pnj"
+  },
+  {
+    "id": 14,
+    "title": "wrappixel",
+    "desc": "Create web apps and products using our production ready",
+    "demo": "https://www.wrappixel.com/",
+    "img": "https://64.media.tumblr.com/2295a31d7e46493cc9d4c8fa2e3a0bfe/e149f0ea3422ce85-8b/s640x960/b85d7219123039571ba2d5fa27d6c957c0d26bca.pnj"
+  },
+  {
+    "id": 15,
+    "title": "kenney",
+    "desc": "Free game assets, no strings attached.",
+    "demo": "https://www.kenney.nl/",
+    "img": "https://64.media.tumblr.com/a72299794e59fdb5c67bb6b0dc078c44/1646980d546bf4f4-9c/s640x960/1665e492f5dffaa954bff07d3a8188f1681d5660.pnj"
   }
 ]
