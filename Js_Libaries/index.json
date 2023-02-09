@@ -103,5 +103,12 @@
     "desc": "Free game assets, no strings attached.",
     "demo": "https://www.kenney.nl/",
     "img": "https://64.media.tumblr.com/a72299794e59fdb5c67bb6b0dc078c44/1646980d546bf4f4-9c/s640x960/1665e492f5dffaa954bff07d3a8188f1681d5660.pnj"
+  },
+  {
+    "id": 16,
+    "title": "gfpgan",
+    "desc": "GFPGAN aims at developing Practical Algorithms for Real-world Face Restoration.",
+    "demo": "https://replicate.com/tencentarc/gfpgan",
+    "img": "https://64.media.tumblr.com/c0a9762b1d5398d8afe9533489b7e092/feb081baa8921251-ce/s640x960/c525c982db2871627faa95ecb5698967f3dfdfb7.pnj"
   }
 ]
