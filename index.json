@@ -28,5 +28,10 @@
     "id": 6,
     "name": "Backend",
     "src": "https://atugatran-projects.github.io/_Apis/backend/index.json"
+  },
+  {
+    "id": 7,
+    "name": "Repositories",
+    "src": "https://atugatran-projects.github.io/_Apis/Repositories/index.json"
   }
 ]
