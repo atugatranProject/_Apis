@@ -87,5 +87,13 @@
     "demo": "https://repocitories.github.io/thread-range/",
     "desc": "Range sliders with some verlet physics magic.",
     "img": "https://64.media.tumblr.com/8a1c552fdd768213ba24aa4492cca1b2/c4059780afbf8c2f-f3/s640x960/9faa2066a96b3fb56bcd1b47731c5d1bd832b220.pnj"
+  },
+  {
+    "id": "12",
+    "title": "pokedex",
+    "src": "https://github.com/Repocitories/pokedex",
+    "demo": "https://repocitories.github.io/pokedex/",
+    "desc": "Pokedex using PokeAPI, made for practice",
+    "img": "https://64.media.tumblr.com/5fad4dc44be4e9539767acbea77fca68/eca055f619a36bff-24/s640x960/805fe261f9330fb29fab74c4337c883d5f88b6ea.pnj"
   }
 ]
