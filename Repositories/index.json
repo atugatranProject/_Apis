@@ -95,5 +95,53 @@
     "demo": "https://repocitories.github.io/pokedex/",
     "desc": "Pokedex using PokeAPI, made for practice",
     "img": "https://64.media.tumblr.com/5fad4dc44be4e9539767acbea77fca68/eca055f619a36bff-24/s640x960/805fe261f9330fb29fab74c4337c883d5f88b6ea.pnj"
+  },
+  {
+    "id": "13",
+    "title": "horizontal-gallery-webgl",
+    "src": "https://github.com/Repocitories/horizontal-gallery-webgl",
+    "demo": "https://horizontal-gallery-webgl.vercel.app/",
+    "desc": "  ",
+    "img": "https://64.media.tumblr.com/3824ef64a245d8c8d93d92f867da9451/4725a6c79e24c485-01/s640x960/db9d7d455755cb0cea14561826d11c6435190431.pnj"
+  },
+  {
+    "id": "14",
+    "title": "fancy-border-radius",
+    "src": "https://github.com/Repocitories/fancy-border-radius",
+    "demo": "https://repocitories.github.io/fancy-border-radius/",
+    "desc": "When you use eight values specifying border-radius in CSS, you can build organic looking shapes. Simply use our Generator at",
+    "img": "https://64.media.tumblr.com/de4278e9e8d29211956d6bdfab41bfb3/f7cd553e01eba28a-fe/s640x960/024656c5a98b67ee065c942292a3550957b9458a.pnj"
+  },
+  {
+    "id": "15",
+    "title": "30days30projects",
+    "src": "https://github.com/Repocitories/30days30projects",
+    "demo": "https://repocitories.github.io/30days30projects/",
+    "desc": "",
+    "img": "https://64.media.tumblr.com/9e8dafff864939e60b9d4d86c34b90f4/102ad01b1075426e-24/s1280x1920/8547635f9e581c23e5514e82452ef52ea5a46966.pnj"
+  },
+  {
+    "id": "16",
+    "title": "React-tuts",
+    "src": "https://github.com/Repocitories/React-tuts",
+    "demo": "https://repocitories.github.io/React-tuts/",
+    "desc": "",
+    "img": "https://64.media.tumblr.com/cf03745cc70b59cbcddd2d934b3f1b28/cd3d0717baa1781b-8d/s640x960/b2fd6a51b5f78bd7a81b9044283e6e475772471f.pnj"
+  },
+  {
+    "id": "17",
+    "title": "Web-Dev-For-Beginners",
+    "src": "https://github.com/Repocitories/Web-Dev-For-Beginners",
+    "demo": "https://repocitories.github.io/Web-Dev-For-Beginners/#/",
+    "desc": "24 Lessons, 12 Weeks, Get Started as a Web Developer",
+    "img": "https://64.media.tumblr.com/9643c5749f545b38de5f876c4db33c47/a358c8ad9846f7dd-2f/s640x960/3f8e94b2a5abc07289125eceb9df3f10d8de0be8.pnj"
+  },
+  {
+    "id": "17",
+    "title": "pacman-js",
+    "src": "https://github.com/Repocitories/pacman-js",
+    "demo": "https://repocitories.github.io/pacman-js/",
+    "desc": "https://repocitories.github.io/pacman-js/",
+    "img": "https://64.media.tumblr.com/8b3343e6ee20dc9cea1fb8175af759a9/98d7b3799c427884-9d/s640x960/49e6092d32bfa86a482d9255b0381f8289f9aab1.pnj"
   }
 ]
