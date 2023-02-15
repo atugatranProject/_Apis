@@ -151,5 +151,21 @@
     "demo": "https://repocitories.github.io/FullScreenPokemon/Source/",
     "desc": " ",
     "img": "https://64.media.tumblr.com/f3b75b798d88061560191e864cdad27f/c77411e001929ec7-46/s640x960/8a4a5210064a349b682f7ed6572ee7822688bdb6.pnj"
+  },
+  {
+    "id": "20",
+    "title": "bitburner",
+    "src": "https://github.com/Repocitories/bitburner",
+    "demo": "https://repocitories.github.io/bitburner/",
+    "desc": "Bitburner Game",
+    "img": "https://64.media.tumblr.com/071bfa6d8d3e46bdad0e088dbc8202a0/9e29a8e94070f063-a6/s640x960/ec235d4049711e2b7c191fcd3c79a1c6e6c79f11.pnj"
+  },
+  {
+    "id": "21",
+    "title": "python-mini-projects",
+    "src": "https://github.com/Repocitories/python-mini-projects",
+    "demo": "https://repocitories.github.io/python-mini-projects/",
+    "desc": "A collection of simple python mini projects to enhance your python skills",
+    "img": "https://64.media.tumblr.com/dffc756d8392704ccb53eef3e444c893/dbb9a536f7f999bc-20/s2048x3072/0f68e529a0f85278abac23036bf23571ba24c28c.pnj"
   }
 ]
