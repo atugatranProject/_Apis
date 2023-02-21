@@ -110,5 +110,19 @@
     "desc": "GFPGAN aims at developing Practical Algorithms for Real-world Face Restoration.",
     "demo": "https://replicate.com/tencentarc/gfpgan",
     "img": "https://64.media.tumblr.com/c0a9762b1d5398d8afe9533489b7e092/feb081baa8921251-ce/s640x960/c525c982db2871627faa95ecb5698967f3dfdfb7.pnj"
+  },
+  {
+    "id": 17,
+    "title": "OverApi",
+    "desc": "Collecting All Cheat Sheets.",
+    "demo": "https://overapi.com/",
+    "img": "https://64.media.tumblr.com/093db67c142557f194e6b02e5b486a31/78fc67b72ff5c5f0-be/s2048x3072/46b16d1612624b230e1e18a0ce38923d20f9660b.jpg"
+  },
+  {
+    "id": 18,
+    "title": "text2sql",
+    "desc": "Generate SQL with AI in seconds!",
+    "demo": "https://www.text2sql.ai/",
+    "img": "https://64.media.tumblr.com/600a7443523bb0a3e2a4f47ee49f8039/6ecfa0d60a8420ea-ff/s2048x3072/ecdab6d3094cda94187d16bd1ded655347bb0497.jpg"
   }
 ]
