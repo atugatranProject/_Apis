@@ -8,11 +8,59 @@
         "logoColor": "#10141c"
     },
     {
-        "id": "1",
+        "id": "2",
         "title": "Atugatran",
         "subTitle": "github.com",
         "src": "https://github.com/Atugatran",
         "logo": "fa-brands fa-github",
         "logoColor": "#10141c"
+    },
+    {
+        "id": "3",
+        "title": "uiverse",
+        "subTitle": "uiverse.io",
+        "src": "https://uiverse.io/",
+        "logo": "fa-brands fa-uikit",
+        "logoColor": "#7f51ff"
+    },
+    {
+        "id": "4",
+        "title": "lofi",
+        "subTitle": "lofi.co",
+        "src": "https://app.lofi.co/",
+        "logo": "fa-solid fa-music",
+        "logoColor": "snow"
+    },
+    {
+        "id": "5",
+        "title": "quickref",
+        "subTitle": "quickref.me",
+        "src": "https://quickref.me/",
+        "logo": "fa-solid fa-code",
+        "logoColor": "snow"
+    },
+    {
+        "id": "6",
+        "title": "getcssscan",
+        "subTitle": "getcssscan.com",
+        "src": "https://getcssscan.com/css-box-shadow-examples/",
+        "logo": "fa-solid fa-code",
+        "logoColor": "snow"
+    },
+    {
+        "id": "7",
+        "title": "flukeout",
+        "subTitle": "flukeout.github.io",
+        "src": "https://flukeout.github.io/",
+        "logo": "fa-solid fa-code",
+        "logoColor": "snow"
+    },
+    {
+        "id": "8",
+        "title": "react-hook-form",
+        "subTitle": "react-hook-form.com",
+        "src": "https://www.react-hook-form.com/",
+        "logo": "fa-brands fa-react",
+        "logoColor": "#081229"
     }
 ]
