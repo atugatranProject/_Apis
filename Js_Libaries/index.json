@@ -3,7 +3,7 @@
     "id": 1,
     "title": "Aos (Animate on Scroll)",
     "desc": "Animate on scroll library",
-    "demo": "https://js-libaries.github.io/Aos/",
+    "demo": "https://michalsnik.github.io/aos/",
     "img": "https://64.media.tumblr.com/ac32d7ffe7ec3dc4f0c68b99f8f9925a/69a32bb977f69729-77/s640x960/304516c699e459761a2c17e0db5222571f012e85.pnj"
   },
   {
@@ -131,5 +131,12 @@
     "desc": "📦 Finding winget packages made easy",
     "demo": "https://winget.run/",
     "img": "https://64.media.tumblr.com/f37b8ed4c125c464dba5c0887d173500/0991e9eb2dfe7c35-b7/s640x960/c11677d38f01cb57c33b796156ce78de5fe2c093.pnj"
+  },
+  {
+    "id": 20,
+    "title": "datatables",
+    "desc": "Add advanced interaction controls to your HTML tables the free & easy way",
+    "demo": "https://datatables.net/",
+    "img": "https://64.media.tumblr.com/d18fe9d0eb9e1eba7fd132596662fa1c/f0a1cccb9e70fe1e-76/s1280x1920/57f9cfd30d812d3ad95e6f50fd00dd27e5937784.jpg"
   }
 ]
