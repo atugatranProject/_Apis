@@ -62,5 +62,69 @@
         "src": "https://www.react-hook-form.com/",
         "logo": "fa-brands fa-react",
         "logoColor": "#081229"
+    },
+    {
+        "id": "9",
+        "title": "codecombat",
+        "subTitle": "codecombat.com",
+        "src": "https://codecombat.com/",
+        "logo": "fa-duotone fa-game-console-handheld",
+        "logoColor": "#f4d914"
+    },
+    {
+        "id": "10",
+        "title": "codecombat",
+        "subTitle": "flukeout.github.io",
+        "src": "https://flukeout.github.io/",
+        "logo": "fa-duotone fa-game-console-handheld",
+        "logoColor": "#f4d914"
+    },
+    {
+        "id": "11",
+        "title": "flexboxfroggy",
+        "subTitle": "flexboxfroggy.com",
+        "src": "https://flexboxfroggy.com/",
+        "logo": "fa-duotone fa-game-console-handheld",
+        "logoColor": "#f4d914"
+    },
+    {
+        "id": "12",
+        "title": "checkio",
+        "subTitle": "checkio.org",
+        "src": "https://checkio.org/",
+        "logo": "fa-duotone fa-game-console-handheld",
+        "logoColor": "#f4d914"
+    },
+    {
+        "id": "13",
+        "title": "flexboxdefense",
+        "subTitle": "flexboxdefense.com",
+        "src": "http://www.flexboxdefense.com/",
+        "logo": "fa-duotone fa-game-console-handheld",
+        "logoColor": "#f4d914"
+    },
+    {
+        "id": "14",
+        "title": "codingame",
+        "subTitle": "codingame.com",
+        "src": "https://www.codingame.com/start/",
+        "logo": "fa-duotone fa-game-console-handheld",
+        "logoColor": "#f4d914"
+    },
+    {
+        "id": "14",
+        "title": "codeium.com",
+        "subTitle": "https://codeium.com",
+        "src": "https://codeium.com/",
+        "logo": "fa-duotone fa-brackets-curly",
+        "logoColor": "white"
+    },
+    {
+        "id": "15",
+        "title": "/ohmyposh",
+        "subTitle": "ohmyposh.dev",
+        "src": "https://codeium.com/",
+        "logo": "https://ohmyposh.dev/",
+        "logoColor": "black"
     }
 ]
