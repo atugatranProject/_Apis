@@ -123,8 +123,8 @@
         "id": "15",
         "title": "/ohmyposh",
         "subTitle": "ohmyposh.dev",
-        "src": "https://codeium.com/",
-        "logo": "https://ohmyposh.dev/",
+        "src": "https://ohmyposh.dev/",
+        "logo": "fa-solid fa-rectangle-terminal",
         "logoColor": "black"
     }
 ]
