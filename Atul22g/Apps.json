@@ -121,10 +121,18 @@
     },
     {
         "id": "15",
-        "title": "/ohmyposh",
+        "title": "ohmyposh",
         "subTitle": "ohmyposh.dev",
         "src": "https://ohmyposh.dev/",
         "logo": "fa-solid fa-rectangle-terminal",
+        "logoColor": "black"
+    },
+    {
+        "id": "16",
+        "title": "syncfusion",
+        "subTitle": "help.syncfusion.com/",
+        "src": "https://help.syncfusion.com/",
+        "logo": "fa-duotone fa-cubes-stacked",
         "logoColor": "black"
     }
 ]
