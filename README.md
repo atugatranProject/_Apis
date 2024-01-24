@@ -1,39 +1,39 @@
 # _Apis
 ```
-https://atugatran-projects.github.io/_Apis/index.json
+https://atugatranapi.pages.dev/_Apis/index.json
 ```
 
 
 ## Projects
 ```
-https://atugatran-projects.github.io/_Apis/Projects/index.json
+https://atugatranapi.pages.dev/_Apis/Projects/index.json
 ```
 
 ## Mini-Projects
 ```
-https://atugatran-projects.github.io/_Apis/Mini-Projects/index.json
+https://atugatranapi.pages.dev/_Apis/Mini-Projects/index.json
 ```
 
 ## Backend
 ```
-https://atugatran-projects.github.io/_Apis/backend/index.json
+https://atugatranapi.pages.dev/_Apis/backend/index.json
 ```
 
 ## Js_Libaries
 ```
-https://atugatran-projects.github.io/_Apis/Js_Libaries/index.json
+https://atugatranapi.pages.dev/_Apis/Js_Libaries/index.json
 ```
 ## Repositories
 ```
-https://atugatran-projects.github.io/_Apis/Repositories/index.json
+https://atugatranapi.pages.dev/_Apis/Repositories/index.json
 ```
 
 ## Movies
 ```
-https://atugatran-projects.github.io/_Apis/Movies/index.json
+https://atugatranapi.pages.dev/_Apis/Movies/index.json
 ```
 
 ## Products
 ```
-https://atugatran-projects.github.io/_Apis/Products/index.json
+https://atugatranapi.pages.dev/_Apis/Products/index.json
 ```
