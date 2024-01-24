@@ -2,15 +2,15 @@
     {
         "id": "1",
         "title": "Mern-crud",
-        "src": "https://github.com/atugatran-projects/Mern-crud",
-        "demo": "https://atugatranapi.pages.dev/Mern-crud/",
+        "src": "https://github.com/atul22g/Mern-crud",
+        "demo": "https://atul22g.github.io/Mern-crud/",
         "desc": " Lorem ipsum dolor sit amet consectetur adipisicing elit. Dicta facilis officiis molestiae, dolorum, perferendis iure repellendus excepturi quam voluptates quis fugiat facere vel. Maiores possimus amet obcaecati, quisquam fugit molestias!",
         "img": "https://64.media.tumblr.com/c1143366302a220055f045079debe94b/40f44deeed7faf03-aa/s640x960/a9ec46ddafae9909460a759a663870864edf8456.pnj"
     },
     {
         "id": "2",
         "title": "Mehbn",
-        "src": "https://github.com/atugatran-projects/Mehbn",
+        "src": "https://github.com/atul22g/Mehbn",
         "demo": "https://mehbn.onrender.com/",
         "desc": " Lorem ipsum dolor sit amet consectetur adipisicing elit. Dicta facilis officiis molestiae, dolorum, perferendis iure repellendus excepturi quam voluptates quis fugiat facere vel. Maiores possimus amet obcaecati, quisquam fugit molestias!",
         "img": "https://64.media.tumblr.com/012936e2a6daaaf7447542feb9ab969f/da8e3623ed78607d-78/s640x960/5a238365e22c75620e777a5583e9913fa70f2228.pnj"
@@ -18,7 +18,7 @@
     {
         "id": "3",
         "title": "Rest-api",
-        "src": "https://github.com/atugatran-projects/restAPI",
+        "src": "https://github.com/atul22g/restAPI",
         "demo": "https://restapi-sq94.onrender.com/",
         "desc": " Lorem ipsum dolor sit amet consectetur adipisicing elit. Dicta facilis officiis molestiae, dolorum, perferendis iure repellendus excepturi quam voluptates quis fugiat facere vel. Maiores possimus amet obcaecati, quisquam fugit molestias!",
         "img": "https://64.media.tumblr.com/d04bacd3eb330803bbecc39ac23adbce/26dead21eb67f5e5-fb/s2048x3072/2f5f8f7bc69c9f943c334978fd5deb5e195fe1b4.pnj"
@@ -26,7 +26,7 @@
     {
         "id": "4",
         "title": "MernDashboard",
-        "src": "https://github.com/atugatran-projects/MernDashboard",
+        "src": "https://github.com/atul22g/MernDashboard",
         "demo": "https://merndashboard-n4db.onrender.com/",
         "desc": " Lorem ipsum dolor sit amet consectetur adipisicing elit. Dicta facilis officiis molestiae, dolorum, perferendis iure repellendus excepturi quam voluptates quis fugiat facere vel. Maiores possimus amet obcaecati, quisquam fugit molestias!",
         "img": "https://64.media.tumblr.com/e6e136cd9f8dba4de916fb2423944c1e/17ad12b0710566ae-7a/s640x960/c0ad85339e7f6feaa8bad6dac055b043a87c0050.pnj"
@@ -34,7 +34,7 @@
     {
         "id": "5",
         "title": "php-login-system",
-        "src": "https://github.com/atugatran-projects/php-login-system",
+        "src": "https://github.com/atul22g/php-login-system",
         "demo": "http://login-system.atugatran.freewebhostmost.com/",
         "desc": " Lorem ipsum dolor sit amet consectetur adipisicing elit. Dicta facilis officiis molestiae, dolorum, perferendis iure repellendus excepturi quam voluptates quis fugiat facere vel. Maiores possimus amet obcaecati, quisquam fugit molestias!",
         "img": "https://64.media.tumblr.com/16f69df6b5139f012f82cc55fb110d16/cf301512eac1f13c-0a/s640x960/31c3cc7377884ddb44e2df64aa119779bf542168.pnj"
@@ -42,7 +42,7 @@
     {
         "id": "6",
         "title": "php-crud",
-        "src": "https://github.com/atugatran-projects/php-crud",
+        "src": "https://github.com/atul22g/php-crud",
         "demo": "http://crud.atugatran.freewebhostmost.com/",
         "desc": " Lorem ipsum dolor sit amet consectetur adipisicing elit. Dicta facilis officiis molestiae, dolorum, perferendis iure repellendus excepturi quam voluptates quis fugiat facere vel. Maiores possimus amet obcaecati, quisquam fugit molestias!",
         "img": "https://64.media.tumblr.com/fa36c5ea075fe6821b3931a7b68b6ad0/ae23483f1921482e-34/s640x960/a3e63d147bc22381124ce67dbe1c497eb153ed9c.pnj"
@@ -50,7 +50,7 @@
     {
         "id": "7",
         "title": "php-iRailway",
-        "src": "https://github.com/atugatran-projects/php-iRailway",
+        "src": "https://github.com/atul22g/php-iRailway",
         "demo": "http://irailway.atugatran.freewebhostmost.com/",
         "desc": " Lorem ipsum dolor sit amet consectetur adipisicing elit. Dicta facilis officiis molestiae, dolorum, perferendis iure repellendus excepturi quam voluptates quis fugiat facere vel. Maiores possimus amet obcaecati, quisquam fugit molestias!",
         "img": "https://64.media.tumblr.com/fca30ab2c55be37dcf84c767aa24d605/ca08605c692d32ff-99/s640x960/8439c2ba560e97e109cd58d60ce0985dffc95713.pnj"
@@ -58,7 +58,7 @@
     {
         "id": "8",
         "title": "php-RestAPI",
-        "src": "https://github.com/atugatran-projects/php-RestAPI",
+        "src": "https://github.com/atul22g/php-RestAPI",
         "demo": "http://restapi.atugatran.freewebhostmost.com/",
         "desc": " Lorem ipsum dolor sit amet consectetur adipisicing elit. Dicta facilis officiis molestiae, dolorum, perferendis iure repellendus excepturi quam voluptates quis fugiat facere vel. Maiores possimus amet obcaecati, quisquam fugit molestias!",
         "img": "https://64.media.tumblr.com/a941e7ed5c48dd02de5b999e64661c13/d9307b97b25c2564-b7/s2048x3072/4544a04d83452c0e56fe0f18eeca325e1177dc96.pnj"
@@ -66,7 +66,7 @@
     {
         "id": "9",
         "title": "Dashboard",
-        "src": "https://github.com/atugatran-projects/Dashboard",
+        "src": "https://github.com/atul22g/Dashboard",
         "demo": "http://dashboard.atugatran.freewebhostmost.com/",
         "desc": " Lorem ipsum dolor sit amet consectetur adipisicing elit. Dicta facilis officiis molestiae, dolorum, perferendis iure repellendus excepturi quam voluptates quis fugiat facere vel. Maiores possimus amet obcaecati, quisquam fugit molestias!",
         "img": "https://64.media.tumblr.com/3cd527ced2c990f034d0f7873a001da9/62cb33654456aadb-87/s640x960/c1ebfd58c96a465c4eac5b6892fc43744ab7196e.pnj"
