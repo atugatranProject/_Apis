@@ -138,5 +138,12 @@
     "desc": "Add advanced interaction controls to your HTML tables the free & easy way",
     "demo": "https://datatables.net/",
     "img": "https://64.media.tumblr.com/d18fe9d0eb9e1eba7fd132596662fa1c/f0a1cccb9e70fe1e-76/s1280x1920/57f9cfd30d812d3ad95e6f50fd00dd27e5937784.jpg"
+  },
+  {
+    "id": 21,
+    "title": "syncfusion",
+    "desc": "The World's Best UI Component Suite for Building Powerful Web, Desktop, and Mobile Apps",
+    "demo": "https://www.syncfusion.com/",
+    "img": "https://64.media.tumblr.com/6cb01d15e788de3d70605aa0006d1b85/29f60876eb56ce8a-ac/s640x960/a19a97eb53a755dc988474eca8ac68c95afa0a76.pnj"
   }
 ]

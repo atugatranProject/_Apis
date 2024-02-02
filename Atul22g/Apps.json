@@ -110,29 +110,5 @@
         "src": "https://www.codingame.com/start/",
         "logo": "fa-duotone fa-game-console-handheld",
         "logoColor": "#f4d914"
-    },
-    {
-        "id": "14",
-        "title": "codeium.com",
-        "subTitle": "https://codeium.com",
-        "src": "https://codeium.com/",
-        "logo": "fa-duotone fa-brackets-curly",
-        "logoColor": "white"
-    },
-    {
-        "id": "15",
-        "title": "ohmyposh",
-        "subTitle": "ohmyposh.dev",
-        "src": "https://ohmyposh.dev/",
-        "logo": "fa-solid fa-rectangle-terminal",
-        "logoColor": "black"
-    },
-    {
-        "id": "16",
-        "title": "syncfusion",
-        "subTitle": "help.syncfusion.com/",
-        "src": "https://help.syncfusion.com/",
-        "logo": "fa-duotone fa-cubes-stacked",
-        "logoColor": "black"
     }
 ]
