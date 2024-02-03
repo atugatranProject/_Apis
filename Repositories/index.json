@@ -63,7 +63,6 @@
     "desc": " Lorem ipsum dolor sit amet consectetur adipisicing elit. Dicta facilis officiis molestiae, dolorum, perferendis iure repellendus excepturi quam voluptates quis fugiat facere vel. Maiores possimus amet obcaecati, quisquam fugit molestias!",
     "img": "https://64.media.tumblr.com/91832c82ca84a6c27d6ec59af422eacb/e29bf6bf22d79e8b-68/s640x960/b222acf9cd39a46048816c7a393ae3ebd6fe474b.pnj"
   },
-
   {
     "id": "9",
     "title": "flying-triangle",
@@ -167,5 +166,13 @@
     "demo": "https://repocitories.github.io/python-mini-projects/",
     "desc": "A collection of simple python mini projects to enhance your python skills",
     "img": "https://64.media.tumblr.com/dffc756d8392704ccb53eef3e444c893/dbb9a536f7f999bc-20/s2048x3072/0f68e529a0f85278abac23036bf23571ba24c28c.pnj"
-}
+  },
+  {
+    "id": "22",
+    "title": "web-development-resources",
+    "src": "https://github.com/Repocitories/web-development-resources",
+    "demo": "https://repocitories.github.io/web-development-resources/#/",
+    "desc": "Awesome Web Development Resources",
+    "img": "https://64.media.tumblr.com/8a7873499df3cccac866da7416b405c4/2150b05d5e0719d2-0f/s640x960/64405c7dcee99701f0565d4d1098efec84aadbe2.pnj"
+  }
 ]
