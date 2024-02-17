@@ -37,3 +37,8 @@ https://atul22g.github.io/_Apis/Movies/index.json
 ```
 https://atul22g.github.io/_Apis/Products/index.json
 ```
+
+## Api
+```
+https://raw.githubusercontent.com/atul22g/_Apis/main/index.json
+```
