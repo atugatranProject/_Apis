@@ -118,5 +118,21 @@
         "src": "https://neumorphism.io/",
         "logo": "fa-duotone fa-box",
         "logoColor": "#2b54e5"
+    },
+    {
+        "id": "16",
+        "title": "lordicon",
+        "subTitle": "lordicon.com",
+        "src": "https://lordicon.com/",
+        "logo": "fa-solid fa-icons",
+        "logoColor": "#08c18a"
+    },
+    {
+        "id": "17",
+        "title": "bg.ibelick",
+        "subTitle": "bg.ibelick.com",
+        "src": "https://bg.ibelick.com/",
+        "logo": "fa-solid fa-paint-roller",
+        "logoColor": "black"
     }
 ]
