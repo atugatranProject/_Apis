@@ -271,5 +271,29 @@
     "src": "https://github.com/Magik-Web-Services/jewit._animation",
     "demo": "https://magik-web-services.github.io/jewit._animation/",
     "img": "https://64.media.tumblr.com/7cd00dd84d78f557f5749f99c9307a7c/a30e5975083b87b6-6b/s640x960/3062afd7ba501841640488623520e0bcf2320be5.pnj"
+  },
+  {
+    "id": 35,
+    "title": "2D-breakout-game",
+    "desc": "2D-breakout-game",
+    "src": "https://github.com/atul22g/2D-breakout-game",
+    "demo": "https://atul22g-2d-breakout-game.netlify.app/",
+    "img": "https://64.media.tumblr.com/9a61c7eb84befcee4dcb0600b1cb744f/69424f8c0593c17f-b0/s2048x3072/ef0bb4c1c9c43c0fcc3a719a5d6575af500ec39e.pnj"
+  },
+  {
+    "id": 36,
+    "title": "aliens-go-home",
+    "desc": "aliens-go-home",
+    "src": "https://github.com/atul22g/aliens-go-home",
+    "demo": "https://atul22g-aliens-go-home.netlify.app/",
+    "img": "https://64.media.tumblr.com/92f39549819b9ad84cac668ff4269f29/7fd9f75f29d6469f-ef/s640x960/83f09b633ac3cfe868b3facca18482234c27c8b6.pnj"
+  },
+  {
+    "id": 37,
+    "title": "Classic-Pool-Game",
+    "desc": "Classic-Pool-Game",
+    "src": "https://github.com/atul22g/Classic-Pool-Game",
+    "demo": "https://atul22g-classic-pool-game.netlify.app/",
+    "img": "https://64.media.tumblr.com/f9be66b0fdf4962cf1f472635e290685/c5fee29e71111fdd-4f/s640x960/61037beadc809c01e5f5dbaf1b30f087e02a0c3e.pnj"
   }
 ]
