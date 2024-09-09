@@ -295,5 +295,21 @@
     "src": "https://github.com/atul22g/Classic-Pool-Game",
     "demo": "https://atul22g-classic-pool-game.netlify.app/",
     "img": "https://64.media.tumblr.com/f9be66b0fdf4962cf1f472635e290685/c5fee29e71111fdd-4f/s640x960/61037beadc809c01e5f5dbaf1b30f087e02a0c3e.pnj"
+  },
+  {
+    "id": 38,
+    "title": "Py-Tic-Tac-Toe",
+    "desc": "Py-Tic-Tac-Toe",
+    "src": "https://github.com/atul22g/py-tic-tac-toe",
+    "demo": "https://atul22g-py-tic-tac-toe.netlify.app/",
+    "img": "https://64.media.tumblr.com/d0de280671a956a60cc712f297094023/f924f624f4236045-9b/s640x960/b4eef44be416cbd92e36b1fa48bdc9f0a04b9883.pnj"
+  },
+  {
+    "id": 39,
+    "title": "python-programs",
+    "desc": "python-programs",
+    "src": "https://github.com/atul22g/python-programs",
+    "demo": "https://github.com/atul22g/python-programs",
+    "img": "https://64.media.tumblr.com/1e2c15d0e3f1cde44e4c608934dc8280/c5f293659467b7ee-40/s640x960/c5ffd692bbc899909a45a3f48ee03c20af15945f.pnj"
   }
 ]
