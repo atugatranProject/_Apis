@@ -2,36 +2,41 @@
   {
     "id": 1,
     "name": "Projects",
-    "src": "https://atul22g.github.io/_Apis/Projects/index.json"
+    "src": "https://atugatranapi.pages.dev/index.json"
   },
   {
     "id": 2,
     "name": "Mini-Projects",
-    "src": "https://atul22g.github.io/_Apis/Mini-Projects/index.json"
+    "src": "https://atugatranapi.pages.dev/Mini-Projects/index.json"
   },
   {
     "id": 3, 
     "name": "Js_Libaries",
-    "src": "https://atul22g.github.io/_Apis/Js_Libaries/index.json"
+    "src": "https://atugatranapi.pages.dev/Js_Libaries/index.json"
   },
   {
     "id": 4,
     "name": "Movies",
-    "src": "https://atul22g.github.io/_Apis/Movies/index.json"
+    "src": "https://atugatranapi.pages.dev/Movies/index.json"
   },
   {
     "id": 5,
     "name": "products",
-    "src": "https://atul22g.github.io/_Apis/Products/index.json"
+    "src": "https://atugatranapi.pages.dev/Products/index.json"
   },
   {
     "id": 6,
     "name": "Backend",
-    "src": "https://atul22g.github.io/_Apis/backend/index.json"
+    "src": "https://atugatranapi.pages.dev/backend/index.json"
   },
   {
     "id": 7,
     "name": "Repositories",
-    "src": "https://atul22g.github.io/_Apis/Repositories/index.json"
+    "src": "https://atugatranapi.pages.dev/Repositories/index.json"
+  },
+  {
+    "id": 8,
+    "name": "App",
+    "src": "https://atugatranapi.pages.dev/App/index.json"
   }
 ]
