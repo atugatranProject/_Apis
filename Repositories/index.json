@@ -174,5 +174,13 @@
     "demo": "https://repocitories.github.io/web-development-resources/#/",
     "desc": "Awesome Web Development Resources",
     "img": "https://64.media.tumblr.com/8a7873499df3cccac866da7416b405c4/2150b05d5e0719d2-0f/s640x960/64405c7dcee99701f0565d4d1098efec84aadbe2.pnj"
+  },
+  {
+    "id": "23",
+    "title": "spa-github-pages",
+    "src": "https://github.com/Repocitories/spa-github-pages",
+    "demo": "https://spa-github-pages.rafgraph.dev",
+    "desc": "spa-github-pages",
+    "img": "https://64.media.tumblr.com/36cc60a392077cf98159196ba3555b51/45c0fc3dabae0416-56/s640x960/5a10a51733270ff0b336e5872e8b648ecf47aff2.pnj"
   }
 ]
