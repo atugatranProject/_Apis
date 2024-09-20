@@ -4,10 +4,6 @@
         "src": "https://github.com/atul22g/Gallery"
     },
     {
-        "Name": "web-skills",
-        "src": "https://github.com/atul22g/web-skills"
-    },
-    {
         "Name": "Advanture-game",
         "src": "https://github.com/atul22g/Advanture-game"
     },
@@ -22,5 +18,9 @@
     {
         "Name": "fakeAPI",
         "src": "https://github.com/atul22g/fakeAPI"
+    },
+    {
+        "Name": "dictionary-app",
+        "src": "https://github.com/atul22g/dictionary-appI"
     }
 ]
