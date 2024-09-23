@@ -18,9 +18,5 @@
     {
         "Name": "fakeAPI",
         "src": "https://github.com/atul22g/fakeAPI"
-    },
-    {
-        "Name": "dictionary-app",
-        "src": "https://github.com/atul22g/dictionary-appI"
     }
 ]

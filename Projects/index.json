@@ -160,14 +160,6 @@
   },
   {
     "id": "20",
-    "title": "Card",
-    "src": "https://github.com/atul22g/card",
-    "demo": "https://card-y0nv.onrender.com/",
-    "desc": " Lorem ipsum dolor sit amet consectetur adipisicing elit. Dicta facilis officiis molestiae, dolorum, perferendis iure repellendus excepturi quam voluptates quis fugiat facere vel. Maiores possimus amet obcaecati, quisquam fugit molestias!",
-    "img": "https://64.media.tumblr.com/05e3f74ed535a78a48f0e2fef66fc5c5/7195debc647f5c8d-b9/s640x960/0e64ceaa5a2c1edc91b45fa3a98a00761328fe49.pnj"
-  },
-  {
-    "id": "21",
     "title": "web-skills",
     "src": "https://github.com/atul22g/web-skills",
     "demo": "https://atugatran-webskills.netlify.app",
