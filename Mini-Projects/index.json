@@ -335,5 +335,13 @@
     "src": "https://github.com/atul22g/threejs-Objects",
     "demo": "https://threejs-objects.onrender.com/",
     "img": "https://64.media.tumblr.com/b2275ef8b25a3abae28b0fafd33aca8d/5d03f36f8b558a34-05/s640x960/b6061c82f3b885c0b2eda719fdcf6019b3639163.pnj"
+  },
+  {
+    "id": 43,
+    "title": "threejs-Objects-with-lights",
+    "desc": "threejs-Objects-with-lights",
+    "src": "https://github.com/atul22g/threejs-Objects-with-lights",
+    "demo": "https://threejs-objects-with-lights.onrender.com/",
+    "img": "https://64.media.tumblr.com/59669764a398a4083c361082c04ccf3c/dcad46b69d42bffb-0b/s640x960/4eeb1d2a551f4ea218d6d1c4dfc113c7f25d3d65.pnj"
   }
 ]
