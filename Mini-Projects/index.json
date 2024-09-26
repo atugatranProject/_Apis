@@ -327,5 +327,13 @@
     "src": "https://github.com/atul22g/Retro-Brick-Game",
     "demo": "https://retro-brick-game.onrender.com/",
     "img": "https://64.media.tumblr.com/7fe13d5352034722d72f468618748311/7430cac1f30c565a-be/s640x960/64432a612f9a0694e245fd624532ee29890a044e.pnj"
+  },
+  {
+    "id": 42,
+    "title": "threejs-objects",
+    "desc": "threejs-objects",
+    "src": "https://github.com/atul22g/threejs-Objects",
+    "demo": "https://threejs-objects.onrender.com/",
+    "img": "https://64.media.tumblr.com/b2275ef8b25a3abae28b0fafd33aca8d/5d03f36f8b558a34-05/s640x960/b6061c82f3b885c0b2eda719fdcf6019b3639163.pnj"
   }
 ]
