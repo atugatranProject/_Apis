@@ -343,5 +343,29 @@
     "src": "https://github.com/atul22g/threejs-Objects-with-lights",
     "demo": "https://threejs-objects-with-lights.onrender.com/",
     "img": "https://64.media.tumblr.com/59669764a398a4083c361082c04ccf3c/dcad46b69d42bffb-0b/s640x960/4eeb1d2a551f4ea218d6d1c4dfc113c7f25d3d65.pnj"
+  },
+  {
+    "id": 44,
+    "title": "Scroll-Animation-Gsap",
+    "desc": "Scroll-Animation-Gsap",
+    "src": "https://github.com/atul22g/Scroll-Animation-Gsap",
+    "demo": "https://atugaran-scroll-animation.netlify.app/",
+    "img": "https://64.media.tumblr.com/71544f41698690f5905b49fa6428a4a8/a98a9baca97b8aab-10/s640x960/82bd40454bf796a79725b3098fe81e828d170ffc.pnj"
+  },
+  {
+    "id": 45,
+    "title": "Scroll-Animation-Gsap",
+    "desc": "Scroll-Animation-Gsap",
+    "src": "https://github.com/atul22g/Scroll-Animation-Gsap",
+    "demo": "https://atugaran-scroll-animation.netlify.app/",
+    "img": "https://64.media.tumblr.com/71544f41698690f5905b49fa6428a4a8/a98a9baca97b8aab-10/s640x960/82bd40454bf796a79725b3098fe81e828d170ffc.pnj"
+  },
+  {
+    "id": 46,
+    "title": "anime-lenis-react",
+    "desc": "anime-lenis-react",
+    "src": "https://github.com/atul22g/anime-lenis-react",
+    "demo": "https://anime-lenis.netlify.app/",
+    "img": "https://64.media.tumblr.com/a867a8edc151c3bebf05d8343585bda5/571d0159cd0cdb54-73/s640x960/c8135adf1b3a5af55104c27b00915459fecc3a62.pnj"
   }
 ]
