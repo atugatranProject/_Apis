@@ -359,5 +359,13 @@
     "src": "https://github.com/atul22g/anime-lenis-react",
     "demo": "https://anime-lenis.netlify.app/",
     "img": "https://64.media.tumblr.com/a867a8edc151c3bebf05d8343585bda5/571d0159cd0cdb54-73/s640x960/c8135adf1b3a5af55104c27b00915459fecc3a62.pnj"
+  },
+  {
+    "id": 46,
+    "title": "animation-website-gsap",
+    "desc": "animation-website-gsap",
+    "src": "https://github.com/atul22g/animation-website-gsap",
+    "demo": "https://animation-website-gsap.netlify.app/",
+    "img": "https://64.media.tumblr.com/944542a2ee746d81b220ab0846deef0b/d6eabb0b7524ada6-ae/s640x960/8c53298dbb4f909ff69e295f3626503be471698f.pnj"
   }
 ]
