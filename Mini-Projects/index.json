@@ -354,14 +354,6 @@
   },
   {
     "id": 45,
-    "title": "Scroll-Animation-Gsap",
-    "desc": "Scroll-Animation-Gsap",
-    "src": "https://github.com/atul22g/Scroll-Animation-Gsap",
-    "demo": "https://atugaran-scroll-animation.netlify.app/",
-    "img": "https://64.media.tumblr.com/71544f41698690f5905b49fa6428a4a8/a98a9baca97b8aab-10/s640x960/82bd40454bf796a79725b3098fe81e828d170ffc.pnj"
-  },
-  {
-    "id": 46,
     "title": "anime-lenis-react",
     "desc": "anime-lenis-react",
     "src": "https://github.com/atul22g/anime-lenis-react",
