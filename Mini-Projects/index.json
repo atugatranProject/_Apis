@@ -349,7 +349,7 @@
     "title": "Scroll-Animation-Gsap",
     "desc": "Scroll-Animation-Gsap",
     "src": "https://github.com/atul22g/Scroll-Animation-Gsap",
-    "demo": "https://atugaran-scroll-animation.netlify.app/",
+    "demo": "https://atugaran-scroll-animation.netlify.app",
     "img": "https://64.media.tumblr.com/71544f41698690f5905b49fa6428a4a8/a98a9baca97b8aab-10/s640x960/82bd40454bf796a79725b3098fe81e828d170ffc.pnj"
   },
   {
@@ -357,7 +357,7 @@
     "title": "anime-lenis-react",
     "desc": "anime-lenis-react",
     "src": "https://github.com/atul22g/anime-lenis-react",
-    "demo": "https://anime-lenis.netlify.app/",
+    "demo": "https://anime-lenis.netlify.app",
     "img": "https://64.media.tumblr.com/a867a8edc151c3bebf05d8343585bda5/571d0159cd0cdb54-73/s640x960/c8135adf1b3a5af55104c27b00915459fecc3a62.pnj"
   },
   {
@@ -365,7 +365,15 @@
     "title": "animation-website-gsap",
     "desc": "animation-website-gsap",
     "src": "https://github.com/atul22g/animation-website-gsap",
-    "demo": "https://animation-website-gsap.netlify.app/",
+    "demo": "https://animation-website-gsap.netlify.app",
     "img": "https://64.media.tumblr.com/944542a2ee746d81b220ab0846deef0b/d6eabb0b7524ada6-ae/s640x960/8c53298dbb4f909ff69e295f3626503be471698f.pnj"
+  },
+  {
+    "id": 47,
+    "title": "animation-website-gsap2",
+    "desc": "animation-website-gsap2",
+    "src": "https://github.com/atul22g/animation-website-gsap",
+    "demo": "https://animation-website-gsap2.netlify.app",
+    "img": "https://64.media.tumblr.com/d19ea3cd9e01f362f24923e2973876c7/f7cd244b74e04b30-20/s640x960/87c65973c5fad56d3d3e41fdc711e1b04c65b687.pnj"
   }
 ]
