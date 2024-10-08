@@ -372,8 +372,16 @@
     "id": 47,
     "title": "animation-website-gsap2",
     "desc": "animation-website-gsap2",
-    "src": "https://github.com/atul22g/animation-website-gsap",
+    "src": "https://github.com/atul22g/animation-website-gsap2",
     "demo": "https://animation-website-gsap2.netlify.app",
     "img": "https://64.media.tumblr.com/d19ea3cd9e01f362f24923e2973876c7/f7cd244b74e04b30-20/s640x960/87c65973c5fad56d3d3e41fdc711e1b04c65b687.pnj"
+  },
+  {
+    "id": 48,
+    "title": "Calc-Ai",
+    "desc": "calc-ai",
+    "src": "https://github.com/atul22g/calc-ai",
+    "demo": "https://calc-ai.onrender.com",
+    "img": "https://64.media.tumblr.com/c290f39acc3f042bc61222b2db5881c9/1c741d25d87a82b9-b1/s640x960/0eeb38cc0577e21a19de72498ef37e310e4650c4.pnj"
   }
 ]
