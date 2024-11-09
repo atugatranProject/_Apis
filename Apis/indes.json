@@ -1,0 +1,18 @@
+[
+    {
+        "name": "My Apis",
+        "src": "https://atugatranapi.pages.dev/index.json"
+    },
+    {
+        "name": "Qr Code",
+        "src": "https://atul22gcdns.pages.dev/QrCode/qrcode.min.js"
+    },
+    {
+        "name": "Tailwind css",
+        "src": "https://atul22gcdns.pages.dev/tailwindcss-cdn%403.4.10/tailwindcss.js"
+    },
+    {
+        "name": "FontAwesome6Pro",
+        "src": "https://github.com/Atugatran/FontAwesome6Pro"
+    }
+]
