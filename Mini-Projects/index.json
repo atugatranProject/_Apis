@@ -383,5 +383,21 @@
     "src": "https://github.com/atul22g/calc-ai",
     "demo": "https://atugatran-calc-ai.onrender.com",
     "img": "https://64.media.tumblr.com/c290f39acc3f042bc61222b2db5881c9/1c741d25d87a82b9-b1/s640x960/0eeb38cc0577e21a19de72498ef37e310e4650c4.pnj"
+  },
+  {
+    "id": 49,
+    "title": "thirtysixstudios",
+    "desc": "thirtysixstudios",
+    "src": "https://github.com/atul22g/thirtysixstudios",
+    "demo": "https://thirtysixstudios.netlify.app/",
+    "img": "https://64.media.tumblr.com/b8d9aea3d7ea4f590e95ba2b50d6d66c/81bffa14d5bc093a-bd/s640x960/bc0f89cf8207c3d4906bce43c13da7b3779868df.pnj"
+  },
+  {
+    "id": 50,
+    "title": "dictionary-app",
+    "desc": "dictionary-app",
+    "src": "https://github.com/atul22g/dictionary-app",
+    "demo": "https://atul22g-dictionaryapp.netlify.app/",
+    "img": "https://64.media.tumblr.com/26854f75b3b4518e55b67cd1a242f74c/c40ffb31ee0b8f72-02/s640x960/b9318396ba184a00ebda162e68510b8fb5ced5e6.pnj"
   }
 ]
