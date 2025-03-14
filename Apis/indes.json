@@ -13,6 +13,6 @@
     },
     {
         "name": "FontAwesome6Pro",
-        "src": "https://github.com/Atugatran/FontAwesome6Pro"
+        "src": "https://cdn.jsdelivr.net/gh/Atugatran/FontAwesome6Pro@main/css/all.min.css"
     }
 ]
