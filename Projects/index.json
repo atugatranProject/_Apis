@@ -157,5 +157,13 @@
     "demo": "https://atugatran-webskills.netlify.app",
     "desc": " Lorem ipsum dolor sit amet consectetur adipisicing elit. Dicta facilis officiis molestiae, dolorum, perferendis iure repellendus excepturi quam voluptates quis fugiat facere vel. Maiores possimus amet obcaecati, quisquam fugit molestias!",
     "img": "https://64.media.tumblr.com/a13dbb974bbc0605b06f08528246e8a8/99eb3ba511970ab3-4d/s640x960/8c607d7bc0041185a7ff5829e97f5a9d22d7bb2c.pnj"
+  },
+  {
+    "id": "21",
+    "title": "AI.Agent",
+    "src": "https://github.com/atul22g/AI.Agent",
+    "demo": "https://atugatran-ai-agent.netlify.app/",
+    "desc": " Lorem ipsum dolor sit amet consectetur adipisicing elit. Dicta facilis officiis molestiae, dolorum, perferendis iure repellendus excepturi quam voluptates quis fugiat facere vel. Maiores possimus amet obcaecati, quisquam fugit molestias!",
+    "img": "https://64.media.tumblr.com/433cc096672e3f9930eec1df0cfee435/941eeca24bb5a210-81/s1280x1920/9a23cb6fcf30a6f0451bcae950932ed953704bc2.pnj"
   }
 ]
