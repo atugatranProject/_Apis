@@ -4,15 +4,15 @@
         "src": "https://atugatranapi.pages.dev/index.json"
     },
     {
-        "name": "Qr Code",
-        "src": "https://atul22gcdns.pages.dev/QrCode/qrcode.min.js"
+        "name": "QrCode@1.0.0",
+        "src": "https://cdn.jsdelivr.net/gh/atul22g/CDN/liberies/QrCode%401.0.0/min.js"
     },
     {
-        "name": "Tailwind css",
-        "src": "https://atul22gcdns.pages.dev/tailwindcss-cdn%403.4.10/tailwindcss.js"
+        "name": "TailWindCss@3.4.10",
+        "src": "https://cdn.jsdelivr.net/gh/atul22g/CDN/liberies/tailwindcss%403.4.10/min.js"
     },
     {
-        "name": "FontAwesome6Pro",
-        "src": "https://cdn.jsdelivr.net/gh/Atugatran/FontAwesome6Pro@main/css/all.min.css"
+        "name": "FontAwesome6Pro@6.2.0",
+        "src": "https://cdn.jsdelivr.net/gh/atul22g/CDN/liberies/QrCode%401.0.0/min.js"
     }
 ]
