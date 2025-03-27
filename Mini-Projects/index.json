@@ -27,8 +27,8 @@
   {
     "id": "4",
     "title": "Resume",
-    "src": "https://github.com/Atugatran/Resume",
     "demo": "https://atul22g-resume.netlify.app/",
+    "src": "https://github.com/atul22g-dev/Resume",
     "desc": " Lorem ipsum dolor sit amet consectetur adipisicing elit. Dicta facilis officiis molestiae, dolorum, perferendis iure repellendus excepturi quam voluptates quis fugiat facere vel. Maiores possimus amet obcaecati, quisquam fugit molestias!",
     "img": "https://64.media.tumblr.com/b524ab98a28a02c7203224197384c8ae/dc890a0198e611ce-91/s640x960/671b799b3609643694b2ef2386bc707fbae1f73a.jpg"
   },
@@ -242,9 +242,9 @@
   },
   {
     "id": "31",
-    "title": "Atugatran",
-    "src": "https://github.com/Atugatran/Atugatran",
-    "demo": "https://atugatran.github.io/Atugatran/",
+    "title": "atual-dev",
+    "src": "https://github.com/atual-dev/atual-dev",
+    "demo": "https://atual-dev.github.io/atual-dev/",
     "desc": " Lorem ipsum dolor sit amet consectetur adipisicing elit. Dicta facilis officiis molestiae, dolorum, perferendis iure repellendus excepturi quam voluptates quis fugiat facere vel. Maiores possimus amet obcaecati, quisquam fugit molestias!",
     "img": "https://64.media.tumblr.com/6839762c48663b7fed7b939e0e78ad3d/f0a0fb0911b44839-82/s2048x3072/99a62070f6261dae7a49e1ecd6fd6561f1b10741.pnj"
   },
