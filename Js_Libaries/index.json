@@ -14,13 +14,6 @@
     "img": "https://64.media.tumblr.com/61adc94a2e07a4faa29a7718ac00b52e/db5faf7a4cd6a263-4f/s640x960/86bd8b7cea35d3e48291b8a7d0b86df92c539f4d.pnj"
   },
   {
-    "id": 3,
-    "title": "Create-React-App",
-    "desc": "Set up a modern web app by running one command.",
-    "demo": "https://create-react-app.dev/",
-    "img": "https://64.media.tumblr.com/543bda23c458c25b6ed363783056ffa9/ee3bc87eb1fc8bc8-59/s640x960/0ffe622bd4c968125a250dbe34ee8fba405149b4.pnj"
-  },
-  {
     "id": 4,
     "title": "kaboom",
     "desc": "💥 JavaScript game library",
@@ -33,13 +26,6 @@
     "desc": "A JavaScript Typing Animation Library",
     "demo": "https://mattboldt.com/demos/typed-js/",
     "img": "https://64.media.tumblr.com/1d782b39d9e0bcc76d1e157ef0ed67fe/ba44364781379187-a7/s640x960/487955d26703e147c8802b7488f40bd66b47ebf3.pnj"
-  },
-  {
-    "id": 6,
-    "title": "Regexr",
-    "desc": "RegExr is a HTML/JS based tool for creating, testing, and learning about Regular Expressions.",
-    "demo": "https://regexr.com/",
-    "img": "https://64.media.tumblr.com/16bd7380a4a50bec1d74e1972707c23d/283635855c178175-f1/s1280x1920/27637c1de583638702f82860d8cdabdf78686295.pnj"
   },
   {
     "id": 7,
@@ -105,13 +91,6 @@
     "img": "https://64.media.tumblr.com/a72299794e59fdb5c67bb6b0dc078c44/1646980d546bf4f4-9c/s640x960/1665e492f5dffaa954bff07d3a8188f1681d5660.pnj"
   },
   {
-    "id": 16,
-    "title": "gfpgan",
-    "desc": "GFPGAN aims at developing Practical Algorithms for Real-world Face Restoration.",
-    "demo": "https://replicate.com/tencentarc/gfpgan",
-    "img": "https://64.media.tumblr.com/c0a9762b1d5398d8afe9533489b7e092/feb081baa8921251-ce/s640x960/c525c982db2871627faa95ecb5698967f3dfdfb7.pnj"
-  },
-  {
     "id": 17,
     "title": "OverApi",
     "desc": "Collecting All Cheat Sheets.",
@@ -138,12 +117,5 @@
     "desc": "Add advanced interaction controls to your HTML tables the free & easy way",
     "demo": "https://datatables.net/",
     "img": "https://64.media.tumblr.com/d18fe9d0eb9e1eba7fd132596662fa1c/f0a1cccb9e70fe1e-76/s1280x1920/57f9cfd30d812d3ad95e6f50fd00dd27e5937784.jpg"
-  },
-  {
-    "id": 21,
-    "title": "syncfusion",
-    "desc": "The World's Best UI Component Suite for Building Powerful Web, Desktop, and Mobile Apps",
-    "demo": "https://www.syncfusion.com/",
-    "img": "https://64.media.tumblr.com/6cb01d15e788de3d70605aa0006d1b85/29f60876eb56ce8a-ac/s640x960/a19a97eb53a755dc988474eca8ac68c95afa0a76.pnj"
   }
 ]
